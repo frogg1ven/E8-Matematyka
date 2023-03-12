@@ -1,0 +1,7 @@
+{
+  "name": "E8 Matematyka",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
