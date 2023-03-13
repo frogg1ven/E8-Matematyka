@@ -9,7 +9,7 @@
             </div>
           </ion-row>
           <ion-row>
-            <ion-button router-link="/categories">
+            <ion-button @click="selectCategory">
               Kategorie
             </ion-button>
           </ion-row>
@@ -33,6 +33,11 @@ export default defineComponent({
     IonPage,
     IonButton,
     IonRow
+  },
+  methods: {
+    selectCategory() {
+      this.$router.push({ path: 'categories' })
+    },
   },
 
 });
