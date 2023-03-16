@@ -8,16 +8,23 @@ ion-content {
   --background: linear-gradient(180deg, #ceffee 10%, #8dfad4 100%);
 }
 
-.button90 {
-  color: white;
-  width: 90%;
+.button95-left {
+  width: 95%;
   display: block;
   margin: 0 auto;
+  margin-right: 0;
+  font-size: clamp(10px, 1.5vw, 32px);
+}
+
+.button95-right {
+  width: 95%;
+  display: block;
+  margin: 0 auto;
+  margin-left: 0;
   font-size: clamp(10px, 1.5vw, 32px);
 }
 
 .button95 {
-  color: white;
   width: 95%;
   display: block;
   margin: 0 auto;
@@ -30,6 +37,7 @@ ion-content {
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
+  width: 100%;
 }
 
 .ct {
@@ -38,4 +46,32 @@ ion-content {
   font-weight: bold;
   font-size: xx-large;
   color: black;
+}
+
+.cq {
+  width: 100%;
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+  color: black;
+}
+
+.margin-top-10 {
+  margin-top: 10%;
+}
+
+.margin-bottom-10 {
+  margin-bottom: 10%;
+}
+
+.container {
+  background-color: #effff9;
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 10px;
+  text-align: center;
+  /* min-width: fit-content; */
+  /* width: 90vw; */
+  /* max-width: 600px; */
+  position: relative;
 }

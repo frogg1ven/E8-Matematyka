@@ -1,15 +1,15 @@
 <template>
   <ion-page>
     <ion-content class="ion-padding">
-        <div>
+        <div class="center">
           <ion-row>
-            <div>
+            <div style="width:100%">
               Logo aplikacji
               E8 Matematyka
             </div>
           </ion-row>
           <ion-row>
-            <ion-button @click="selectCategory">
+            <ion-button @click="selectCategory" class="button95 margin-top-10" style="font-size: large">
               Kategorie
             </ion-button>
           </ion-row>

@@ -1,36 +1,40 @@
 {
-    "title": "Quiz about Foo",
     "questions": [
       {
-        "text": "Is true true?",
-        "type": "tf",
-        "answer": "t"
-      },
-      {
-        "text": "Is false true?",
-        "type": "tf",
-        "answer": "f"
-      },
-      {
-        "text": "What is the best beer?",
-        "type": "mc",
+        "content": "Dane jest wyrażenie $$\\frac{n^4 - 3}{6}$$ oraz liczby: -3, -1, 0, 1, 3. \nDla której z danych liczb wartość podanego wyrażena wynosi... \nWybierz prawidłową odpowiedź spośród podanych.",
+        "points": 1,
+        "date": "maj 2022 - zad.7",
         "answers": [
-          "Coors",
-          "Miller",
-          "Bud",
-          "Anchor Steam"
-        ],
-        "answer": "Anchor Steam"
+            "-3",
+            "-1",
+            "1",
+            "3"
+          ],
+        "answer": "1"
       },
       {
-        "text": "What is the best cookie?",
-        "type": "mc",
+        "content": "Wynikiem dodawania jest",
+        "points": 2,
+        "date": "maj 2021 - zad.3",
         "answers": [
-          "Chocolate Chip",
-          "Sugar",
-          "Beer"
-        ],
-        "answer": "Sugar"
+            "suma",
+            "różnica",
+            "iloczyn",
+            "iloraz"
+          ],
+        "answer": "suma"
+      },
+      {
+        "content": "$$\\frac{2}{2}=$$",
+        "points": 3,
+        "date": "luty 2020 - zad.1",
+        "answers": [
+            "1",
+            "2",
+            "5",
+            "100"
+          ],
+        "answer": "1"
       }
     ]
   }
