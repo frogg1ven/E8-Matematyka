@@ -8,5 +8,8 @@ export default {
     SET_ANSWERS(state, answers) {
       state.answers = answers;
     },
+    SET_TIME(state, time) {
+      state.time = time;
+    },
   };
   

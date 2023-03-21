@@ -4,8 +4,8 @@
         <div class="center">
           <ion-row>
             <div style="width:100%">
-              Logo aplikacji
-              E8 Matematyka
+              <ion-img src="../../assets/e8-removebg.png" alt="Logo aplikacji E8 Matematyka">
+              </ion-img>
             </div>
           </ion-row>
           <ion-row>
@@ -24,7 +24,8 @@ import {
   IonContent,
   IonPage,
   IonButton,
-  IonRow
+  IonRow,
+  IonImg,
 } from "@ionic/vue";
 
 export default defineComponent({
@@ -32,7 +33,8 @@ export default defineComponent({
     IonContent,
     IonPage,
     IonButton,
-    IonRow
+    IonRow,
+    IonImg,
   },
   methods: {
     selectCategory() {

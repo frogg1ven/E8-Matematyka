@@ -1,40 +1,48 @@
 {
     "questions": [
-      {
-        "content": "Dane jest wyrażenie $$\\frac{n^4 - 3}{6}$$ oraz liczby: -3, -1, 0, 1, 3. \nDla której z danych liczb wartość podanego wyrażena wynosi... \nWybierz prawidłową odpowiedź spośród podanych.",
+      { 
+        "category": "algebra",
+        "type": "abcd",
+        "content": "Dane jest wyrażenie $$\\frac{n^4 - 3}{6}$$ oraz liczby: -3, -1, 0, 1, 3. \nDla której z danych liczb wartość podanego wyrażenia jest najmniejsza? Wybierz właściwą odpowiedź spośród podanych.",
         "points": 1,
-        "date": "maj 2022 - zad.7",
+        "date": "maj 2022 - zad. 7",
         "answers": [
             "-3",
             "-1",
-            "1",
-            "3"
+            "0",
+            "1"
           ],
-        "answer": "1"
+        "answer": "0"
       },
       {
-        "content": "Wynikiem dodawania jest",
-        "points": 2,
-        "date": "maj 2021 - zad.3",
+        "category": "algebra",
+        "type": "abcd",
+        "content": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nWyrażenie: $$(2a+3b)(3b−2a)$$ jest równe",
+        "points": 1,
+        "date": "kwiecień 2019 - zad. 8",
         "answers": [
-            "suma",
-            "różnica",
-            "iloczyn",
-            "iloraz"
+            "$$4a^2-12ab+9b^2$$",
+            "$$9b+12ab+4a^2$$",
+            "$$9b^2-4a^2$$",
+            "$$4a^2-9b^2$$"
           ],
-        "answer": "suma"
+        "answer": "$$9*b^2-4a^2$$"
       },
       {
-        "content": "$$\\frac{2}{2}=$$",
-        "points": 3,
-        "date": "luty 2020 - zad.1",
+        "category": "algebra",
+        "type": "tf",
+        "content": "Dane są liczby a i b takie, że 2 < a < 3 oraz −1 < b < 1. Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F - jeśli zdanie jest fałszywe.",
+        "points": 1,
+        "date": "kwiecień 2016 - zad. 7",
         "answers": [
-            "1",
-            "2",
-            "5",
-            "100"
+            "Iloraz $$\\frac{b}{a}$$ jest zawsze dodatni.",
+            "Różnica b − a jest zawsze dodatnia."
           ],
-        "answer": "1"
+        "answer": [
+          "F", 
+          "F"
+        ]
       }
+      
     ]
-  }
+}

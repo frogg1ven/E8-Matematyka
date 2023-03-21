@@ -10,25 +10,44 @@
 
         <ion-row class="container">
           <ion-label>
-            Zdobyte punkty: {{points[0]}} / {{points[1]}}
-          </ion-label>
-        </ion-row>
-
-        <ion-row id="question" :key="questionNumber" class="container">
-          <ion-label style="white-space: pre-wrap;">
-            {{data.questions[questionNumber].content}}
+            Zdobyte punkty: {{ points[0] || "0" }} / {{ points[1] || "0" }}
           </ion-label>
         </ion-row>
 
         <ion-row>
           <ion-col class="container" style="margin-right: 1%">
             <ion-label style="white-space: pre-wrap;">
-              Twoja<br/>odpowiedź:<br/> {{answers[questionNumber][1]}}
+              Czas:<br/> 
             </ion-label>
+            <div v-if="time">
+              {{ time }}
+            </div>
+          </ion-col>
+        </ion-row>
+
+        <ion-row class="container">
+          <ion-label style="white-space: pre-wrap;" :key="questionNumber" id="solution">
+            {{ data.questions[questionNumber].content }}
+          </ion-label>
+        </ion-row>
+
+        <ion-row>
+          <ion-col class="container" style="margin-right: 1%">
+            <ion-label style="white-space: pre-wrap;">
+              Twoja<br/>odpowiedź:<br/> 
+            </ion-label>
+            <div v-if="answers">
+            <ion-label>
+              {{ answers[questionNumber][1] }}
+            </ion-label>
+            </div>
           </ion-col>
           <ion-col class="container" style="margin-left: 1%">
             <ion-label style="white-space: pre-wrap;">
-              Poprawna<br/>odpowiedź:<br/> {{answers[questionNumber][2]}}
+              Poprawna<br/>odpowiedź:<br/>
+            </ion-label>
+            <ion-label>
+              {{ answers[questionNumber][2] }}
             </ion-label>
           </ion-col>
         </ion-row>
@@ -75,36 +94,51 @@ export default defineComponent({
   },
   data() {
     return {
-        questionNumber: 0,
-        points: [0, 0],
-        answers: [[]],
-        data: jsonData,
+      questionNumber: 0,
+      points: [0, 0],
+      answers: [['-','-','-']],
+      data: jsonData,
+      time: "0:00",
+      answersLength: 0,
     }
   },
   methods: {
     previous() {
-      console.log(this.answers[0][1])
       if (this.questionNumber > 0) this.questionNumber--;
-      else this.questionNumber = 2;
+      else this.questionNumber = this.answersLength;
+      console.log(this.questionNumber)
     },
     next() {
-      console.log(this.answers[0])
-      if (this.questionNumber < 2) this.questionNumber++;
+
+      if (this.questionNumber < this.answersLength) this.questionNumber++;
       else this.questionNumber = 0;
+      console.log(this.questionNumber)
     },
     renderMath () {
       this.$nextTick(function(){
-        renderMathInElement("question");
+        renderMathInElement("solution");
       })
     },
     backToCategories() {
       this.$router.push({ path: 'categories' })
-    }
+    },
+    msToMinutesAndSeconds(millis){
+      var minutes = Math.floor(millis / 60000);
+      var seconds = ((millis % 60000) / 1000).toFixed(0);
+      return (
+        seconds == 60 ?
+        (minutes+1) + ":00" :
+        minutes + ":" + (seconds < 10 ? "0" : "") + seconds
+      );
+    },
   },
   mounted() {
     renderMathInDocument();
     this.points = store.state.points;
     this.answers = store.state.answers;
+    this.answersLength = this.answers.length - 1;
+    this.time = this.msToMinutesAndSeconds(store.state.time);
+    console.log(this.time)
   },
   watch: {
     questionNumber() {
