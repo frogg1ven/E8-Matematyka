@@ -26,8 +26,8 @@
         </ion-row>
 
         <ion-row class="container">
-          <ion-label style="white-space: pre-wrap;" :key="questionNumber" id="solution">
-            {{ data.questions[questionNumber].content }}
+          <ion-label style="white-space: pre-wrap;" type="mode=text" :key="questionNumber" id="solution">
+            {{ data[answers[questionNumber][0]].content }}
           </ion-label>
         </ion-row>
 
@@ -47,7 +47,7 @@
               Poprawna<br/>odpowiedź:<br/>
             </ion-label>
             <ion-label>
-              {{ answers[questionNumber][2] }}
+              {{ data[answers[questionNumber][0]].correctAnswer }}
             </ion-label>
           </ion-col>
         </ion-row>
@@ -96,7 +96,7 @@ export default defineComponent({
     return {
       questionNumber: 0,
       points: [0, 0],
-      answers: [['-','-','-']],
+      answers: [[0,0,0]],
       data: jsonData,
       time: "0:00",
       answersLength: 0,
@@ -136,6 +136,7 @@ export default defineComponent({
     renderMathInDocument();
     this.points = store.state.points;
     this.answers = store.state.answers;
+    console.log(this.answers)
     this.answersLength = this.answers.length - 1;
     this.time = this.msToMinutesAndSeconds(store.state.time);
     console.log(this.time)

@@ -1,5 +1,5 @@
 export default () => ({
-    chosenCategory: "algebra",
+    selectedCategory: "algebra",
     answers: [['-','-','-']],
     points: [],
     time: 0

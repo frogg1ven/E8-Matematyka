@@ -1,48 +1,214 @@
-{
-    "questions": [
-      { 
-        "category": "algebra",
-        "type": "abcd",
-        "content": "Dane jest wyrażenie $$\\frac{n^4 - 3}{6}$$ oraz liczby: -3, -1, 0, 1, 3. \nDla której z danych liczb wartość podanego wyrażenia jest najmniejsza? Wybierz właściwą odpowiedź spośród podanych.",
-        "points": 1,
-        "date": "maj 2022 - zad. 7",
-        "answers": [
-            "-3",
-            "-1",
-            "0",
-            "1"
-          ],
-        "answer": "0"
-      },
-      {
-        "category": "algebra",
-        "type": "abcd",
-        "content": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nWyrażenie: $$(2a+3b)(3b−2a)$$ jest równe",
-        "points": 1,
-        "date": "kwiecień 2019 - zad. 8",
-        "answers": [
-            "$$4a^2-12ab+9b^2$$",
-            "$$9b+12ab+4a^2$$",
-            "$$9b^2-4a^2$$",
-            "$$4a^2-9b^2$$"
-          ],
-        "answer": "$$9*b^2-4a^2$$"
-      },
-      {
-        "category": "algebra",
-        "type": "tf",
-        "content": "Dane są liczby a i b takie, że 2 < a < 3 oraz −1 < b < 1. Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F - jeśli zdanie jest fałszywe.",
-        "points": 1,
-        "date": "kwiecień 2016 - zad. 7",
-        "answers": [
-            "Iloraz $$\\frac{b}{a}$$ jest zawsze dodatni.",
-            "Różnica b − a jest zawsze dodatnia."
-          ],
-        "answer": [
-          "F", 
-          "F"
-        ]
-      }
-      
+[
+  { 
+    "index":  0,
+    "category": "algebra",
+    "type": "abcd",
+    "content": "Dane jest wyrażenie \\( \\frac{n^4 - 3}{6} \\) oraz liczby: -3, -1, 0, 1, 3. \nDla której z danych liczb wartość podanego wyrażenia jest najmniejsza? Wybierz właściwą odpowiedź spośród podanych.",
+    "points": 1,
+    "image": null,
+    "date": "maj 2022 - zad. 7",
+    "answers": [
+        "-3",
+        "-1",
+        "0",
+        "1"
+      ],
+    "correctAnswer": "0"
+  },
+  {
+    "index":  1,
+    "category": "algebra",
+    "type": "abcd",
+    "content": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nWyrażenie: \\( (2a+3b)(3b−2a) \\) jest równe",
+    "points": 1,
+    "image": null,
+    "date": "kwiecień 2019 - zad. 8",
+    "answers": [
+        "$$4a^2-12ab+9b^2$$",
+        "$$9b+12ab+4a^2$$",
+        "$$9b^2-4a^2$$",
+        "$$4a^2-9b^2$$"
+      ],
+    "correctAnswer": "$$9b^2-4a^2$$"
+  },
+  {
+    "index":  2,
+    "category": "algebra",
+    "type": "tf",
+    "content": "Dane są liczby a i b takie, że 2 < a < 3 oraz −1 < b < 1. Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F - jeśli zdanie jest fałszywe.",
+    "points": 1,
+    "image": null,
+    "date": "kwiecień 2016 - zad. 7",
+    "answers": [
+      "Iloraz \\( \\frac{b}{a} \\) jest zawsze dodatni.",
+      "Różnica b − a jest zawsze dodatnia."
+    ],
+    "correctAnswer": [
+      "F", 
+      "F"
     ]
-}
+  },
+  {
+    "index":  3,
+    "category": "algebra",
+    "type": "abcd",
+    "content": "W klasie IIIa liczba dziewcząt stanowi \\( \\frac{2}{3} \\) liczby wszystkich uczniów tej klasy.\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nW klasie IIIa...",
+    "points": 1,
+    "image": null,
+    "date": "kwiecień 2016 - zad. 8",
+    "answers": [
+        "jest więcej chłopców niż dziewcząt.",
+        "liczba dziewcząt stanowi \\( \\frac{2}{3} \\) liczby chłopców.",
+        "jest dwa razy więcej dziewcząt niż chłopców.",
+        "stosunek liczby chłopców do liczby dziewcząt jest równy 1 : 3."
+      ],
+    "correctAnswer": "jest dwa razy więcej dziewcząt niż chłopców."
+  },
+  {
+    "index":  4,
+    "category": "algebra",
+    "type": "abcd",
+    "content": "Liczba x jest dodatnia, a liczba y jest ujemna. \nIle spośród liczb: \\( x*y, \\frac{x}{y}, (x-y)^2 \\) jest dodatnich? \nWybierz właściwą odpowiedź spośród podanych.",
+    "points": 1,
+    "image": null,
+    "date": "kwiecień 2015 - zad. 12",
+    "answers": [
+        "Jedna.",
+        "Dwie.",
+        "Trzy.",
+        "Cztery."
+      ],
+    "correctAnswer": "Dwie."
+  },
+  {
+    "index":  5,
+    "category": "algebra",
+    "type": "tf",
+    "content": "Dane są liczby x i y spełniające warunki: x < 0 i y < x. \nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, lub F – jeśli jest fałszywe.",
+    "points": 1,
+    "image": null,
+    "date": "kwiecień 2013 - zad. 7",
+    "answers": [
+        "Liczba y jest ujemna.",
+        "Liczba x jest większa od liczby y."
+      ],
+    "correctAnswer": [
+      "P", 
+      "P"
+    ]
+  },
+  {
+    "index":  6,
+    "category": "algebra",
+    "type": "abcd",
+    "content": "Dokończ zdanie, wybierając odpowiedź spośród podanych. \nRówność \\( \\frac{3}{5}=\\frac{1}{x}+\\frac{1}{y} \\) będzie prawdziwa, jeśli w miejscu x i y zostaną wpisane liczby",
+    "points": 1,
+    "image": null,
+    "date": "kwiecień 2011 - zad. 12",
+    "answers": [
+        "5 i 2",
+        "6 i 4",
+        "10 i 2",
+        "10 i 6"
+      ],
+    "correctAnswer": "10 i 2"
+  },
+  {
+    "index":  7,
+    "category": "algebra",
+    "type": "abcd",
+    "content": "Pan Jan spłacił całą pożyczkę w x ratach. Każda z pierwszych czterech rat była równa a zł, a każda z pozostałych była o 100 zł większa od pierwszej raty. \nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. \nSpłaconą kwotę pożyczki opisano wyrażeniem...",
+    "points": 1,
+    "image": null,
+    "date": "Materiały CKE - zad. 1",
+    "answers": [
+        "4a + 100x",
+        "4a + x(a + 100)",
+        "4a + x(100a)",
+        "4a + (x − 4) · (a + 100)"
+      ],
+    "correctAnswer": "4a + (x − 4) · (a + 100)"
+  },
+  {
+    "index":  8,
+    "category": "algebra",
+    "type": "abcd",
+    "content": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. \nDla x = 3 i y = −2 wartość 0 przyjmuje wyrażenie",
+    "points": 1,
+    "image": null,
+    "date": "Materiały CKE - zad. 3",
+    "answers": [
+        "\\( 3x+y^2 \\)",
+        "\\( 3y-2x \\)",
+        "\\( (x-7)(2y-1) \\)",
+        "\\( (x+3)(y+2) \\)"
+      ],
+    "correctAnswer": "\\( (x+3)(y+2) \\)"
+  },
+  {
+    "index":  9,
+    "category": "algebra",
+    "type": "abcd",
+    "content": "Paweł zjada średnio a jabłek w czasie b dni. \nKtórym wyrażeniem opisano, ile średnio jabłek Paweł zjada w ciągu tygodnia? Wybierz właściwą odpowiedź spośród podanych.",
+    "points": 1,
+    "image": null,
+    "date": "Materiały CKE - zad. 4",
+    "answers": [
+        "\\( \\frac{7a}{b} \\)",
+        "\\( \\frac{7b}{a} \\)",
+        "\\( \\frac{ab}{7} \\)",
+        "\\( \\frac{7}{ab} \\)"
+      ],
+    "correctAnswer": "\\( \\frac{7a}{b} \\)"
+  },
+  {
+    "index":  10,
+    "category": "algebra",
+    "type": "open",
+    "content": "Pewną kwotę rozdzielono na trzy nagrody pieniężne. Marcin dostał 2 razy więcej pieniędzy niż Jędrek, a Kamil 2 razy mniej niż Jędrek. Uzasadnij, że Kamil otrzymał \\( \\frac{1}{7} \\) tej kwoty.",
+    "points": 2,
+    "image": null,
+    "date": "marzec 2021 - zad. 16",
+    "answers": null,
+    "correctAnswer": "-"
+  },
+  {
+    "index":  11,
+    "category": "algebra",
+    "type": "open",
+    "content": "Adam zamówił bukiet złożony tylko z goździków i róż, w którym goździków było 2 razy więcej niż róż. Jedna róża kosztowała 4 zł, a cena jednego goździka wynosiła 3 zł. Czy wszystkie kwiaty w tym bukiecie mogły kosztować 35 zł? Uzasadnij odpowiedź.",
+    "points": 2,
+    "image": null,
+    "date": "kwiecień 2019 - zad. 18",
+    "answers": null,
+    "correctAnswer": "Nie mogły."
+  },
+  {
+    "index":  12,
+    "category": "algebra",
+    "type": "open",
+    "content": "Nauczyciel zadał wszystkim uczniom w klasie następujące zadanie: Pomyśl pewną liczbę, pomnóż ją przez 3, do iloczynu dodaj 6, a otrzymany wynik podziel przez 3. Teraz od ostatniego wyniku odejmij liczbę, którą pomyślałeś na początku. \nUzasadnij, że każdy uczeń powinien otrzymać taki sam końcowy wynik.",
+    "points": 3,
+    "image": null,
+    "date": "materiały CKE - zad. 6",
+    "answers": null,
+    "correctAnswer": "2"
+  },
+  {
+    "index":  13,
+    "category": "algebra",
+    "type": "tf",
+    "content": "Kwadrat o boku a przedstawiony na rysunku I rozcięto na dwa przystające prostokąty, z których ułożono figurę, jak na rysunku II. Pole ułożonej figury jest równe polu kwadratu. \nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.",
+    "points": 1,
+    "image": "link do obrazka",
+    "date": "kwiecień 2019 - zad. 10",
+    "answers": [
+        "Obwód ułożonej figury jest większy o 1,5a od obwodu kwadratu.",
+        "Obwód ułożonej figury jest równy 5a."
+      ],
+    "correctAnswer": [
+      "F", 
+      "P"
+    ]
+  }
+]

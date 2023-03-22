@@ -75,3 +75,7 @@ ion-content {
   /* max-width: 600px; */
   position: relative;
 }
+
+.ion-text-none {
+  text-transform: none;
+}
