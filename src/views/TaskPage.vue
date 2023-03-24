@@ -11,34 +11,47 @@
           </ion-col>
         </ion-row>
         <div class="center">
+          <div v-if="isImageVisible" style="margin-right: 10%; margin-left: 10%;">
+            <ion-row>
+              <img :src="require(`@/assets/${image}`)"/>
+            </ion-row>
+          </div>
           <ion-row class="margin-bottom-10 container" >
             <ion-label class="cq" style="white-space: pre-wrap;" :key="questionNumber">
               {{ data[questionNumber].content }}
             </ion-label>
           </ion-row>
-
+          
           <div v-if="taskType=='abcd'">
             <ion-row>
               <ion-col>
-                <ion-button @click="checkAnswer(0)" class="button95 ion-text-none" :color="clicked==0 ? 'secondary' : 'primary'"> A. {{data[questionNumber].answers[0]}} </ion-button>
+                <ion-button @click="checkAnswer(0)" class="button95 ion-text-none" 
+                :color="clicked==0 ? 'secondary' : 'primary'"> A. {{data[questionNumber].answers[0]}} 
+                </ion-button>
               </ion-col>
             </ion-row>
 
             <ion-row>
               <ion-col>
-                <ion-button @click="checkAnswer(1)" class="button95 ion-text-none" :color="clicked==1 ? 'secondary' : 'primary'"> B. {{data[questionNumber].answers[1]}} </ion-button>
+                <ion-button @click="checkAnswer(1)" class="button95 ion-text-none" 
+                :color="clicked==1 ? 'secondary' : 'primary'"> B. {{data[questionNumber].answers[1]}} 
+                </ion-button>
               </ion-col>
             </ion-row>
 
             <ion-row>
               <ion-col>
-                <ion-button @click="checkAnswer(2)" class="button95 ion-text-none" :color="clicked==2 ? 'secondary' : 'primary'"> C. {{data[questionNumber].answers[2]}} </ion-button>
+                <ion-button @click="checkAnswer(2)" class="button95 ion-text-none" 
+                :color="clicked==2 ? 'secondary' : 'primary'"> C. {{data[questionNumber].answers[2]}} 
+                </ion-button>
               </ion-col>
             </ion-row>
 
             <ion-row>
               <ion-col>
-                <ion-button @click="checkAnswer(3)" class="button95 ion-text-none" :color="clicked==3 ? 'secondary' : 'primary'" > D. {{data[questionNumber].answers[3]}} </ion-button>
+                <ion-button @click="checkAnswer(3)" class="button95 ion-text-none" 
+                :color="clicked==3 ? 'secondary' : 'primary'" > D. {{data[questionNumber].answers[3]}} 
+                </ion-button>
               </ion-col>
             </ion-row>
           </div>
@@ -83,6 +96,8 @@
               </ion-col>
             </ion-row>
 
+          </div>
+          <div v-if="taskType=='open'">
           </div>
 
           <ion-row>
@@ -129,6 +144,8 @@ export default defineComponent({
       firstIndex: 0,
       lastIndex: 0,
       tf: ["T", "F"],
+      isImageVisible: false,
+      image: null,
     };
   },
   methods: {
@@ -170,6 +187,8 @@ export default defineComponent({
       if (this.questionNumber < this.answersLength) {
         this.questionNumber++;
         this.taskType = this.data[this.questionNumber].type;
+        this.data[this.questionNumber].image ? this.isImageVisible = true : this.isImageVisible = false;
+        this.image = this.data[this.questionNumber].image;
       }
       else { // jeśli nie ma, przejście do podsumowania
         store.commit("SET_TIME", Math.round(new Date()) - this.time);
@@ -193,6 +212,9 @@ export default defineComponent({
     this.questionNumber = this.firstIndex;
     this.taskType = this.data[this.questionNumber].type;
     this.answersLength = this.lastIndex - this.firstIndex;
+
+    this.data[this.questionNumber].image ? this.isImageVisible = true : this.isImageVisible = false;
+    this.image = this.data[this.questionNumber].image;
 
     renderMathInDocument();
   },

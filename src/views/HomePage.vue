@@ -3,9 +3,8 @@
     <ion-content class="ion-padding">
         <div class="center">
           <ion-row>
-            <div style="width:100%">
-              <ion-img src="../../assets/e8-removebg.png" alt="Logo aplikacji E8 Matematyka">
-              </ion-img>
+            <div style="width:100%; margin-left: 10%; margin-right: 10%;">
+              <ion-img :src="image" alt="Logo aplikacji E8 Matematyka"/>
             </div>
           </ion-row>
           <ion-row>
@@ -21,12 +20,14 @@
 <script>
 import { defineComponent } from "vue";
 import {
-  IonContent,
+  IonContent, 
   IonPage,
   IonButton,
   IonRow,
   IonImg,
 } from "@ionic/vue";
+
+import image from "@/assets/logo.svg"
 
 export default defineComponent({
   components: {
@@ -35,6 +36,11 @@ export default defineComponent({
     IonButton,
     IonRow,
     IonImg,
+  },
+  data: function(){
+    return {
+      image: image,
+    }
   },
   methods: {
     selectCategory() {
