@@ -11,9 +11,9 @@
           </ion-col>
         </ion-row>
         <div class="center">
-          <div v-if="isImageVisible" style="margin-right: 10%; margin-left: 10%;">
-            <ion-row>
-              <img :src="require(`@/assets/${image}`)"/>
+          <div v-if="isImageVisible" >
+            <ion-row class="padding10">
+                <img :src="require(`@/assets/${image}`)" class="image-container"/>
             </ion-row>
           </div>
           <ion-row class="margin-bottom-10 container" >
@@ -100,6 +100,53 @@
           <div v-if="taskType=='open'">
           </div>
 
+     
+          <div v-if="taskType=='abtf'">
+            <ion-row>
+              <ion-col size="12" class="ion-no-margin ion-no-padding">
+                <div class="container">
+                  <ion-label>
+                    {{ data[questionNumber].answers[0][0] }}
+                  </ion-label>
+                </div>
+              </ion-col>
+            </ion-row>
+            <ion-row>
+              <ion-col size="6">
+                <ion-button @click="checkAnswerTf(1, 0)" class="button95-left" :color="clickedTf1==0 ? 'secondary' : 'primary'">
+                  A. {{ data[questionNumber].answers[0][1] }}
+                </ion-button>
+              </ion-col>
+              <ion-col size="6">
+                <ion-button @click="checkAnswerTf(1, 1)" class="button95-right" :color="clickedTf1==1 ? 'secondary' : 'primary'">
+                  B {{ data[questionNumber].answers[0][1] }}
+                </ion-button>
+              </ion-col>
+            </ion-row>
+
+            <ion-row>
+              <ion-col size="12" class="ion-no-margin ion-no-padding">
+                <div class="container" >
+                  <ion-label>
+                    {{ data[questionNumber].answers[1][0] }}
+                  </ion-label>
+                </div>
+              </ion-col>
+            </ion-row>
+            <ion-row>
+              <ion-col size="6" >
+                <ion-button @click="checkAnswerTf(0, 0)" class="button95-left" :color="clickedTf2==0 ? 'secondary' : 'primary'">
+                  C. {{ data[questionNumber].answers[1][1] }}
+                </ion-button>
+              </ion-col>
+              <ion-col size="6" >
+                <ion-button @click="checkAnswerTf(0, 1)" class="button95-right" :color="clickedTf2==1 ? 'secondary' : 'primary'">
+                  D. {{ data[questionNumber].answers[1][2] }}
+                </ion-button>
+              </ion-col>
+            </ion-row>
+          </div>
+
           <ion-row>
             <ion-col>
               <ion-button @click="next" class="button95 margin-top-10"> Następne pytanie </ion-button>
@@ -139,7 +186,7 @@ export default defineComponent({
       clickedTf2: null,
       answers: [],
       time: null,
-      taskType: "tf",
+      taskType: null,
       answersLength: 0,
       firstIndex: 0,
       lastIndex: 0,
@@ -166,6 +213,7 @@ export default defineComponent({
         }
       }
       // jeśli została zaznaczona odpowiedź tf
+      //TODO dorobić obsługę abtf
       else if (this.clickedTf1 != null || this.clickedTf2 != null){
         this.answers.push([this.questionNumber, this.clickedTf1 ? this.data[this.questionNumber].correctAnswer[this.clickedTf1] : null, 
                                                 this.clickedTf2 ? this.data[this.questionNumber].correctAnswer[this.clickedTf2] : null])
@@ -184,7 +232,7 @@ export default defineComponent({
       this.clicked = null; this.clickedTf1 = null; this.clickedTf2 = null;
 
       // sprawdzenie czy jest jeszcze jakieś pytanie z danej kategorii 
-      if (this.questionNumber < this.answersLength) {
+      if (this.questionNumber < this.lastIndex) {
         this.questionNumber++;
         this.taskType = this.data[this.questionNumber].type;
         this.data[this.questionNumber].image ? this.isImageVisible = true : this.isImageVisible = false;
@@ -206,12 +254,12 @@ export default defineComponent({
   },
   mounted() {
     this.time = Math.round(new Date());
-    const categoryIndex = (element) => element.category == store.state.selectedCategory;
+    var categoryIndex = (element) => element.category == store.state.selectedCategory;
     this.firstIndex = this.data.findIndex(categoryIndex);
     this.lastIndex = this.data.findLastIndex(categoryIndex);
     this.questionNumber = this.firstIndex;
     this.taskType = this.data[this.questionNumber].type;
-    this.answersLength = this.lastIndex - this.firstIndex;
+    console.log(this.firstIndex, this.lastIndex);
 
     this.data[this.questionNumber].image ? this.isImageVisible = true : this.isImageVisible = false;
     this.image = this.data[this.questionNumber].image;

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="47.434422mm"
+   height="28.869684mm"
+   viewBox="0 0 47.434416 28.869684"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="marzec2020 z12.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.829812"
+     inkscape:cx="-184.44518"
+     inkscape:cy="62.574734"
+     inkscape:window-width="1958"
+     inkscape:window-height="1368"
+     inkscape:window-x="2553"
+     inkscape:window-y="127"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1">
+      <path
+         d="M 0,0 H 601.09294 V 344.25796 H 0 Z"
+         id="path278" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-0">
+      <path
+         d="M 0,0 H 601.09294 V 281.60749 H 0 Z"
+         id="path697" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2">
+      <path
+         d="m 316.92829,14.54386 h 52.58165 v 62.330828 h -52.58165 z"
+         id="path700" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath3">
+      <path
+         d="m 318.52734,15.34375 v 60.732422 h 24.45118 V 15.34375 Z"
+         id="path703" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath4">
+      <path
+         d="m 343.29883,15.34375 v 29.886719 h 24.61328 V 15.34375 Z"
+         id="path706" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath5">
+      <path
+         d="m 342.97852,46.029297 v 30.046875 h 24.45312 V 46.029297 Z"
+         id="path709" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-6"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-4">
+      <path
+         d="M 0,0 H 601.09294 V 221.51418 H 0 Z"
+         id="path1547" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-7"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-6">
+      <path
+         d="M 0,0 H 686.11858 V 297.42993 H 0 Z"
+         id="path1856" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-0"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-5">
+      <path
+         d="M -236.05804,0 H 450.06055 V 160.46193 H -236.05804 Z"
+         id="path2132" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-4"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-7">
+      <path
+         d="M 0,0 H 686.11858 V 194.98362 H 0 Z"
+         id="path2256" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-1"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-00">
+      <path
+         d="M 0,0 H 686.11858 V 131.53403 H 0 Z"
+         id="path2517" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-8"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-9">
+      <path
+         d="M 0,0 H 686.11858 V 265.94487 H 0 Z"
+         id="path3071" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2-4">
+      <path
+         d="M 188.75053,44.590516 H 242.1313 V 69.842492 H 188.75053 Z"
+         id="path3074" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath3-9">
+      <path
+         d="m 190.18945,49.865234 v 19.337891 h 25.41211 V 49.865234 Z"
+         id="path3077" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath4-8">
+      <path
+         d="m 216.24023,49.865234 v 19.337891 h 24.61329 V 49.865234 Z"
+         id="path3080" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath5-2">
+      <path
+         d="m 123.06343,110.91691 h 53.70041 v 25.4118 h -53.70041 z"
+         id="path3083" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath6">
+      <path
+         d="m 124.50195,116.19141 v 19.49804 h 24.77149 v -19.49804 z"
+         id="path3086" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath7">
+      <path
+         d="m 149.91406,116.19141 v 19.49804 h 25.57032 v -19.49804 z"
+         id="path3089" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-70"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-246.36822,-154.41707)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.88607px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="142.01698"
+       y="168.76631"
+       id="text3127"><tspan
+         sodipodi:role="line"
+         x="142.01698"
+         y="168.76631"
+         id="tspan3125"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.88607px;font-family:Calibri;fill:#000000;stroke-width:0.264583"
+           id="tspan3123"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:400;font-size:3.34036px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="292.54837"
+       y="183.28676"
+       id="text3203"><tspan
+         sodipodi:role="line"
+         x="292.54837"
+         y="183.28676"
+         id="tspan3201"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:italic;font-variant:normal;font-weight:400;font-size:3.34036px;font-family:Calibri;fill:#000000;stroke-width:0.264583"
+           id="tspan3199">L</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.88607px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="295.38977"
+       y="191.30496"
+       id="text3209"><tspan
+         sodipodi:role="line"
+         x="295.38977"
+         y="191.30496"
+         id="tspan3207"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.88607px;font-family:Calibri;fill:#181717;stroke-width:0.264583"
+           id="tspan3205"> </tspan></tspan></text>
+    <g
+       id="g3561">
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:400;font-size:3.34036px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="246.23251"
+         y="182.85297"
+         id="text3197"><tspan
+           sodipodi:role="line"
+           x="246.23251"
+           y="182.85297"
+           id="tspan3195"
+           style="stroke-width:0.264583"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:italic;font-variant:normal;font-weight:400;font-size:3.34036px;font-family:Calibri;fill:#000000;stroke-width:0.264583"
+             id="tspan3191">K</tspan><tspan
+             dx="0"
+             dy="0"
+             style="font-style:italic;font-variant:normal;font-weight:400;font-size:3.34036px;font-family:Calibri;fill:#000000;stroke-width:0.264583"
+             id="tspan3193"> </tspan></tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.211432px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 248.53644,179.29562 h 43.93557 l -21.96779,-21.98893 -21.96778,21.98893"
+         id="path3361" />
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:400;font-size:3.34036px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="269.19073"
+         y="156.52763"
+         id="text3197-6"><tspan
+           sodipodi:role="line"
+           x="269.19073"
+           y="156.52763"
+           id="tspan3195-8"
+           style="stroke-width:0.264583"><tspan
+             dx="0 0"
+             dy="0 0"
+             style="font-style:italic;font-variant:normal;font-weight:400;font-size:3.34036px;font-family:Calibri;fill:#000000;stroke-width:0.264583"
+             id="tspan3193-7">M </tspan></tspan></text>
+    </g>
+  </g>
+</svg>

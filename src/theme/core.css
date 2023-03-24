@@ -79,3 +79,14 @@ ion-content {
 .ion-text-none {
   text-transform: none;
 }
+
+.image-container {
+  max-height: 30vh !important;
+  display: block;
+  margin: auto;
+}
+
+.padding10 { 
+  padding-right: 10%; 
+  padding-left: 10%;
+}

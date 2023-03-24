@@ -210,5 +210,282 @@
       "F", 
       "P"
     ]
+  },
+  {
+    "index":  14,
+    "category": "algebra",
+    "type": "abcd",
+    "content": "Na rysunkach przedstawiono kształt i sposób układania płytek oraz niektóre wymiary w centymetrach.\nUłożono wzór z 5 płytek, jak na rysunku. Dokończ zdanie tak, aby otrzymać zdanie prawdziwe.\nOdcinek x ma długość",
+    "points": 1,
+    "image": "kwiecien2014z9.svg",
+    "date": "kwiecień 2014 - zad. 9",
+    "answers": [
+        "20cm",
+        "22cm",
+        "26cm",
+        "30cm"
+      ],
+    "correctAnswer": "22cm"
+  },
+  {
+    "index":  15,
+    "category": "algebra",
+    "type": "abcd",
+    "content": "Które wyrażenie algebraiczne opisuje długość analogicznego do x odcinka dla wzoru złożonego z n płytek?\nWybierz odpowiedź spośród podanych.",
+    "points": 1,
+    "image": "kwiecien2014z9.svg",
+    "date": "kwiecień 2014 - zad. 10",
+    "answers": [
+        "6n",
+        "6n-4",
+        "4n-2",
+        "4n+2"
+      ],
+    "correctAnswer": "4n+2"
+  },
+  {
+    "index":  16,
+    "category": "algebra",
+    "type": "tf",
+    "content": "Na rysunku I przedstawiono kształt i wymiary elementu układanki, w którym sąsiednie boki są do siebie prostopadłe.\nZ takich elementów zbudowano dwie figury przedstawione na poniższym rysunku.\nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.",
+    "points": 1,
+    "image": "materialyCKEz2.svg",
+    "date": "materiały CKE - zad. 2",
+    "answers": [
+        "Obwód figury II jest równy 11b.",
+        "Obwód figury II jest o 6a większy od obwodu figury I."
+      ],
+    "correctAnswer": [
+      "P", 
+      "P"
+    ]
+  },
+  {
+    "index":  17,
+    "category": "algebra",
+    "type": "abcd",
+    "content": "Z każdego narożnika prostokąta odcięto kwadrat o boku a. Na rysunku przedstawiono wymiary otrzymanej figury (obszar zacieniowany).\n Zapisz wyrażenie algebraiczne opisujące pole zacieniowanej figury i oblicz jego wartość dla a = 2,5.",
+    "points": 1,
+    "image": "materialyCKEz5.svg",
+    "date": "materiały CKE - zad. 5",
+    "answers": [
+        "P=8a + 3, P=23",
+        "P=8a + 3, P=23",
+        "P=8a + 3, P=23",
+        "P=8a + 3, P=23"
+      ],
+    "correctAnswer": "P=8a + 3, P=23"
+  },
+  {
+    "index":  18,
+    "category": "geometria",
+    "type": "abcd",
+    "content": "Dany jest trójkąt ABC, w którym kąt BCA ma miarę 35°. Punkt D leży na boku BC tego trójkąta. Odcinek AD ma taką samą długość jak odcinek BD. Kąt ADC ma miarę 130° (zobacz rysunek poniżej).\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nKąt CAB ma miarę",
+    "points": 1,
+    "image": "maj2022z13.svg",
+    "date": "maj 2022 - zad. 13",
+    "answers": [
+        "95°",
+        "75°",
+        "90°",
+        "80°"
+      ],
+    "correctAnswer": "80°"
+  },
+  {
+    "index":  19,
+    "category": "geometria",
+    "type": "abcd",
+    "content": "W trójkącie ABC narysowano dwie wysokości: CD i AE, jak na rysunku. Kąt rozwarty pomiędzy tymi wysokościami jest równy 138°. Jaką miarę ma kąt α zaznaczony na rysunku? Wybierz właściwą odpowiedź spośród podanych.",
+    "points": 1,
+    "image": "maj2021z12.svg",
+    "date": "maj 2021 - zad. 12",
+    "answers": [
+        "38°",
+        "42°",
+        "45°",
+        "48°"
+      ],
+    "correctAnswer": "48°"
+  },
+  {
+    "index":  20,
+    "category": "geometria",
+    "type": "tf",
+    "content": "Figura zacieniowana na rysunku jest równoległobokiem.\nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.",
+    "points": 1,
+    "image": "marzec2020z11.svg",
+    "date": "marzec 2020 - zad. 11",
+    "answers": [
+        "Suma miar kątów α i β wynosi 180°.",
+        "Kąt α ma miarę 3 razy mniejszą niż kąt β."
+      ],
+    "correctAnswer": ["P", "P"]
+  },
+  {
+    "index":  21,
+    "category": "geometria",
+    "type": "abtf",
+    "content": "Na rysunku przedstawiono trójkąt równoramienny KLM o ramionach KM i LM. Miara kąta KML jest dwa razy większa niż miara kąta KLM.\nUzupełnij poniższe zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.",
+    "points": 1,
+    "image": "marzec2020z12.svg",
+    "date": "marzec 2020 - zad. 12",
+    "answers": [
+        ["Miara kąta KLM jest równa.", "40", "45"],
+        ["Trójkąt KLM jest.", "rozwartokątny", "prostokątny"]
+      ],
+    "correctAnswer": ["45", "prostokątny"]
+  },
+  {
+    "index":  22,
+    "category": "geometria",
+    "type": "abcd",
+    "content": "Na rysunku przedstawiono trzy trójkąty.\nDokończ zadanie. Wybierz właściwą odpowiedź spośród podanych.\nNa podstawie informacji przedstawionych na rysunku można stwierdzić, że",
+    "points": 1,
+    "image": "kwiecień2019z11.svg",
+    "date": "kwiecień 2019 - zad. 11",
+    "answers": [
+        "trójkąt ABC jest przystający do trójkąta KLM.",
+        "trójkąt KLM jest przystający do trójkąta P QR.", 
+        "trójkąt P QR jest przystający do trójkąta ABC.",
+        "wszystkie trójkąty są przystające."
+      ],
+    "correctAnswer": "trójkąt KLM jest przystający do trójkąta P QR."
+  },
+  {
+    "index":  23,
+    "category": "geometria",
+    "type": "tf",
+    "content": "W trójkącie ABC największą miarę ma kąt przy wierzchołku C. Miara kąta przy wierzchołku A jest równa 48◦, a miara kąta przy wierzchołku B jest równa różnicy miary kąta przy wierzchołku C oraz miary kąta przy wierzchołku A.\nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.",
+    "points": 1,
+    "image": null,
+    "date": "grudzień 2018 - zad. 12",
+    "answers": [
+        "Kąt przy wierzchołku B ma miarę 48◦.",
+        "Trójkąt ABC jest prostokątny."
+      ],
+    "correctAnswer": ["F","P"]
+  },
+  {
+    "index":  24,
+    "category": "geometria",
+    "type": "tf",
+    "content": "Przekątne prostokąta ABCD przedstawionego na rysunku przecinają się pod kątem 140◦.\nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.",
+    "points": 1,
+    "image": "grudzień2017z13.svg",
+    "date": "grudzień 2017 - zad. 13",
+    "answers": [
+        "Kąt DCA ma miarę 40◦.",
+        "Kąt DAC ma miarę 70◦."
+      ],
+    "correctAnswer": ["F","P"]
+  },
+  {
+    "index":  25,
+    "category": "geometria",
+    "type": "abcd",
+    "content": "Każdy bok kwadratu ABCD podzielono na 3 równe części i połączono kolejno punkty podziału, w wyniku czego otrzymano ośmiokąt (rysunek).\nKtóre z poniższych zdań jest prawdziwe?\nWybierz właściwą odpowiedź spośród podanych.",
+    "points": 1,
+    "image": "kwiecień2016z19.svg",
+    "date": "kwiecień 2016 - zad. 19",
+    "answers": [
+        "Ośmiokąt jest foremny.",
+        "Wszystkie boki ośmiokąta mają taką samą długość.",
+        "Każdy kąt wewnętrzny ośmiokąta ma miarę 135◦.",
+        "Obwód ośmiokąta jest większy od obwodu kwadratu ABCD."
+      ],
+    "correctAnswer": "Każdy kąt wewnętrzny ośmiokąta ma miarę 135◦"
+  },
+  {
+    "index":  26,
+    "category": "geometria",
+    "type": "abcd",
+    "content": "Na rysunku przedstawiono równoległobok ABCD i trójkąt równoramienny AED, w którym |DE| = |AE|. Miara kąta BCE jest równa 106◦.\nJaką miarę ma kąt AEC? Wybierz właściwą odpowiedź spośród podanych.",
+    "points": 1,
+    "image": "kwiecień2019z12.svg",
+    "date": "kwiecień 2019 - zad. 12",
+    "answers": [
+        "148◦",
+        "122◦", 
+        "74◦",
+        "58◦"
+      ],
+    "correctAnswer": "148◦"
+  },
+  {
+    "index":  27,
+    "category": "geometria",
+    "type": "abcd",
+    "content": "Jeden z kątów wewnętrznych trójkąta ma miarę α, drugi ma miarę o 30◦ większą niż kąt α, a trzeci ma miarę trzy razy większą niż kąt α.\nDokończ zdanie tak, aby otrzymać zdanie prawdziwe.\nTrójkąt ten jest",
+    "points": 1,
+    "image": null,
+    "date": "kwiecień 2013 - zad. 16",
+    "answers": [
+        "równoboczny.",
+        "równoramienny.",
+        "rozwartokątny.",
+        "prostokątny."
+      ],
+    "correctAnswer": "prostokątny."
+  },
+  {
+    "index":  28,
+    "category": "geometria",
+    "type": "abcd",
+    "content": "Na rysunkach I-IV przedstawiono cztery pary trójkątów.\nNa którym rysunku trójkąty NIE SĄ przystające? Wybierz odpowiedź spośród podanych.",
+    "points": 1,
+    "image": "kwiecień 2013 - zad. 17.svg",
+    "date": "kwiecień 2013 - zad. 17",
+    "answers": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+    "correctAnswer": "III"
+  },
+  {
+    "index":  29,
+    "category": "geometria",
+    "type": "tf",
+    "content": "Przedstawiony na rysunku trójkąt ABC jest prostokątny, ale nie jest równoramienny. Odcinek BE jest wysokością tego trójkąta, a BD jest dwusieczną kąta prostego.\nOceń prawdziwość poniższych zdań. Wybierz P, jeśli zdanie jest prawdziwe, lub F - jeśli jest fałszywe.",
+    "points": 1,
+    "image": "materiały CKE - zad. 15.svg",
+    "date": "materiały CKE - zad. 15",
+    "answers": [
+        "Półprosta BD jest dwusieczną kąta CBE.",
+        "Odcinek BE jest wysokością w trójkącie CBD."
+      ],
+    "correctAnswer": ["F","P"]
+  },
+  {
+    "index":  30,
+    "category": "geometria",
+    "type": "tf",
+    "content": "W trójkącie równoramiennym ABC, w którym |AC| = |BC| i kąt |ABC| = 30◦ poprowadzono wysokość CD i dwusieczną kąta ABC przecinającą bok AC w punkcie E. Wysokość i dwusieczna przecinają się w punkci F.\nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, lub F – jeśli jest fałszywe.",
+    "points": 1,
+    "image": "listopad 2012 - zad. 14.svg",
+    "date": "listopad 2012 - zad. 14",
+    "answers": [
+        "kąt |BEC| = 45◦",
+        "|EF| = |EC|"
+      ],
+    "correctAnswer": ["P","F"]
+  },
+  {
+    "index":  31,
+    "category": "geometria",
+    "type": "abcd",
+    "content": "Rozmiar ramy roweru to długość fragmentu rury pod siodełkiem mierzona tak, jak przedstawiono na rysunku – od środka miejsca, w którym obracają się pedały do środka rury łączącej siodełko z kierownicą.\nJaki jest rozmiar ramy, której niektóre wymiary przedstawiono na rysunku? Wybierz odpowiedź spośród podanych.",
+    "points": 1,
+    "image": "grudzień 2011 - zad. 7.svg",
+    "date": "grudzień 2011 - zad. 7",
+    "answers": [
+        "49 cm",
+        "53 cm",
+        "58 cm",
+        "59 cm"
+      ],
+    "correctAnswer": "53 cm"
   }
 ]

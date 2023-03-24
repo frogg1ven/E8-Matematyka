@@ -1,6 +1,6 @@
 export default {
     CHANGE_CATEGORY(state, val) {
-      state.chosenCategory = val;
+      state.selectedCategory = val;
     },
     SET_RESULT(state, {gained, max}) {
       state.points = [gained, max];

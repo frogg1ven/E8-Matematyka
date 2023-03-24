@@ -10,12 +10,12 @@
 
           <ion-row>
             <ion-col size="6">
-              <ion-button @click="setCategory(1)" class="button95-left">
+              <ion-button @click="setCategory('algebra')" class="button95-left">
                 Algebra
               </ion-button>
             </ion-col>
             <ion-col size="6">
-              <ion-button @click="setCategory(2)" class="button95-right">
+              <ion-button @click="setCategory('geometria')" class="button95-right">
                 Geometria
               </ion-button>
             </ion-col>
@@ -23,12 +23,12 @@
           
           <ion-row>
             <ion-col size="6">
-              <ion-button @click="setCategory(3)" class="button95-left">
+              <ion-button @click="setCategory('stereometria')" class="button95-left">
                 Stereometria
               </ion-button>
             </ion-col>
             <ion-col size="6">
-              <ion-button @click="setCategory(4)" class="button95-right">
+              <ion-button @click="setCategory('liczby i działania')" class="button95-right">
                 Liczby i działania
               </ion-button>
             </ion-col>
@@ -36,12 +36,12 @@
 
           <ion-row>
             <ion-col size="6">
-              <ion-button @click="setCategory(5)" class="button95-left">
+              <ion-button @click="setCategory('pierwiastki')" class="button95-left">
                 Pierwiastki
               </ion-button>
             </ion-col>
             <ion-col size="6">
-              <ion-button @click="setCategory(6)" class="button95-right">
+              <ion-button @click="setCategory('potęgi')" class="button95-right">
                 Potęgi
               </ion-button>
             </ion-col>
@@ -49,27 +49,32 @@
 
           <ion-row>
             <ion-col size="6">
-              <ion-button @click="setCategory(7)" class="button95-left">
+              <ion-button @click="setCategory('procenty')" class="button95-left">
                 Procenty
               </ion-button>
             </ion-col>
             <ion-col size="6">
-              <ion-button @click="setCategory(8)" class="button95-right">
+              <ion-button @click="setCategory('prawdopodobieństwo')" class="button95-right">
                 Prawdopodobieństwo
               </ion-button>
             </ion-col>
           </ion-row>
 
           <ion-row>
-            <ion-col size="12">
-              <ion-button @click="setCategory(9)" class="button95">
+            <ion-col size="6">
+              <ion-button @click="setCategory('zadania tekstowe')" class="button95-left">
                 Zadania tekstowe
+              </ion-button>
+            </ion-col>
+            <ion-col size="6">
+              <ion-button @click="setCategory('udowodnij')" class="button95-right">
+                Udowodnij
               </ion-button>
             </ion-col>
           </ion-row>
           <ion-row>
             <ion-col>
-              <ion-button @click="setCategory(0)" class="button95">
+              <ion-button @click="setCategory('losowe pytanie')" class="button95">
                 Losowe pytanie
               </ion-button>
             </ion-col>
