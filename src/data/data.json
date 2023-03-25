@@ -5,7 +5,7 @@
     "type": "abcd",
     "content": "Dane jest wyrażenie \\( \\frac{n^4 - 3}{6} \\) oraz liczby: -3, -1, 0, 1, 3. \nDla której z danych liczb wartość podanego wyrażenia jest najmniejsza? Wybierz właściwą odpowiedź spośród podanych.",
     "points": 1,
-    "image": null,
+    "image": false,
     "date": "maj 2022 - zad. 7",
     "answers": [
         "-3",
@@ -21,7 +21,7 @@
     "type": "abcd",
     "content": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nWyrażenie: \\( (2a+3b)(3b−2a) \\) jest równe",
     "points": 1,
-    "image": null,
+    "image": false,
     "date": "kwiecień 2019 - zad. 8",
     "answers": [
         "$$4a^2-12ab+9b^2$$",
@@ -37,7 +37,7 @@
     "type": "tf",
     "content": "Dane są liczby a i b takie, że 2 < a < 3 oraz −1 < b < 1. Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F - jeśli zdanie jest fałszywe.",
     "points": 1,
-    "image": null,
+    "image": false,
     "date": "kwiecień 2016 - zad. 7",
     "answers": [
       "Iloraz \\( \\frac{b}{a} \\) jest zawsze dodatni.",
@@ -54,7 +54,7 @@
     "type": "abcd",
     "content": "W klasie IIIa liczba dziewcząt stanowi \\( \\frac{2}{3} \\) liczby wszystkich uczniów tej klasy.\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nW klasie IIIa...",
     "points": 1,
-    "image": null,
+    "image": false,
     "date": "kwiecień 2016 - zad. 8",
     "answers": [
         "jest więcej chłopców niż dziewcząt.",
@@ -70,7 +70,7 @@
     "type": "abcd",
     "content": "Liczba x jest dodatnia, a liczba y jest ujemna. \nIle spośród liczb: \\( x*y, \\frac{x}{y}, (x-y)^2 \\) jest dodatnich? \nWybierz właściwą odpowiedź spośród podanych.",
     "points": 1,
-    "image": null,
+    "image": false,
     "date": "kwiecień 2015 - zad. 12",
     "answers": [
         "Jedna.",
@@ -86,7 +86,7 @@
     "type": "tf",
     "content": "Dane są liczby x i y spełniające warunki: x < 0 i y < x. \nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, lub F – jeśli jest fałszywe.",
     "points": 1,
-    "image": null,
+    "image": false,
     "date": "kwiecień 2013 - zad. 7",
     "answers": [
         "Liczba y jest ujemna.",
@@ -103,7 +103,7 @@
     "type": "abcd",
     "content": "Dokończ zdanie, wybierając odpowiedź spośród podanych. \nRówność \\( \\frac{3}{5}=\\frac{1}{x}+\\frac{1}{y} \\) będzie prawdziwa, jeśli w miejscu x i y zostaną wpisane liczby",
     "points": 1,
-    "image": null,
+    "image": false,
     "date": "kwiecień 2011 - zad. 12",
     "answers": [
         "5 i 2",
@@ -119,7 +119,7 @@
     "type": "abcd",
     "content": "Pan Jan spłacił całą pożyczkę w x ratach. Każda z pierwszych czterech rat była równa a zł, a każda z pozostałych była o 100 zł większa od pierwszej raty. \nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. \nSpłaconą kwotę pożyczki opisano wyrażeniem...",
     "points": 1,
-    "image": null,
+    "image": false,
     "date": "Materiały CKE - zad. 1",
     "answers": [
         "4a + 100x",
@@ -135,7 +135,7 @@
     "type": "abcd",
     "content": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. \nDla x = 3 i y = −2 wartość 0 przyjmuje wyrażenie",
     "points": 1,
-    "image": null,
+    "image": false,
     "date": "Materiały CKE - zad. 3",
     "answers": [
         "\\( 3x+y^2 \\)",
@@ -151,7 +151,7 @@
     "type": "abcd",
     "content": "Paweł zjada średnio a jabłek w czasie b dni. \nKtórym wyrażeniem opisano, ile średnio jabłek Paweł zjada w ciągu tygodnia? Wybierz właściwą odpowiedź spośród podanych.",
     "points": 1,
-    "image": null,
+    "image": false,
     "date": "Materiały CKE - zad. 4",
     "answers": [
         "\\( \\frac{7a}{b} \\)",
@@ -167,7 +167,7 @@
     "type": "open",
     "content": "Pewną kwotę rozdzielono na trzy nagrody pieniężne. Marcin dostał 2 razy więcej pieniędzy niż Jędrek, a Kamil 2 razy mniej niż Jędrek. Uzasadnij, że Kamil otrzymał \\( \\frac{1}{7} \\) tej kwoty.",
     "points": 2,
-    "image": null,
+    "image": false,
     "date": "marzec 2021 - zad. 16",
     "answers": null,
     "correctAnswer": "-"
@@ -178,7 +178,7 @@
     "type": "open",
     "content": "Adam zamówił bukiet złożony tylko z goździków i róż, w którym goździków było 2 razy więcej niż róż. Jedna róża kosztowała 4 zł, a cena jednego goździka wynosiła 3 zł. Czy wszystkie kwiaty w tym bukiecie mogły kosztować 35 zł? Uzasadnij odpowiedź.",
     "points": 2,
-    "image": null,
+    "image": false,
     "date": "kwiecień 2019 - zad. 18",
     "answers": null,
     "correctAnswer": "Nie mogły."
@@ -189,7 +189,7 @@
     "type": "open",
     "content": "Nauczyciel zadał wszystkim uczniom w klasie następujące zadanie: Pomyśl pewną liczbę, pomnóż ją przez 3, do iloczynu dodaj 6, a otrzymany wynik podziel przez 3. Teraz od ostatniego wyniku odejmij liczbę, którą pomyślałeś na początku. \nUzasadnij, że każdy uczeń powinien otrzymać taki sam końcowy wynik.",
     "points": 3,
-    "image": null,
+    "image": false,
     "date": "materiały CKE - zad. 6",
     "answers": null,
     "correctAnswer": "2"
@@ -200,7 +200,7 @@
     "type": "tf",
     "content": "Kwadrat o boku a przedstawiony na rysunku I rozcięto na dwa przystające prostokąty, z których ułożono figurę, jak na rysunku II. Pole ułożonej figury jest równe polu kwadratu. \nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.",
     "points": 1,
-    "image": "kwiecien2019z10.svg",
+    "image": true,
     "date": "kwiecień 2019 - zad. 10",
     "answers": [
         "Obwód ułożonej figury jest większy o 1,5a od obwodu kwadratu.",
@@ -217,7 +217,7 @@
     "type": "abcd",
     "content": "Na rysunkach przedstawiono kształt i sposób układania płytek oraz niektóre wymiary w centymetrach.\nUłożono wzór z 5 płytek, jak na rysunku. Dokończ zdanie tak, aby otrzymać zdanie prawdziwe.\nOdcinek x ma długość",
     "points": 1,
-    "image": "kwiecien2014z9.svg",
+    "image": true,
     "date": "kwiecień 2014 - zad. 9",
     "answers": [
         "20cm",
@@ -233,7 +233,7 @@
     "type": "abcd",
     "content": "Które wyrażenie algebraiczne opisuje długość analogicznego do x odcinka dla wzoru złożonego z n płytek?\nWybierz odpowiedź spośród podanych.",
     "points": 1,
-    "image": "kwiecien2014z9.svg",
+    "image": true,
     "date": "kwiecień 2014 - zad. 10",
     "answers": [
         "6n",
@@ -249,7 +249,7 @@
     "type": "tf",
     "content": "Na rysunku I przedstawiono kształt i wymiary elementu układanki, w którym sąsiednie boki są do siebie prostopadłe.\nZ takich elementów zbudowano dwie figury przedstawione na poniższym rysunku.\nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.",
     "points": 1,
-    "image": "materialyCKEz2.svg",
+    "image": true,
     "date": "materiały CKE - zad. 2",
     "answers": [
         "Obwód figury II jest równy 11b.",
@@ -266,7 +266,7 @@
     "type": "abcd",
     "content": "Z każdego narożnika prostokąta odcięto kwadrat o boku a. Na rysunku przedstawiono wymiary otrzymanej figury (obszar zacieniowany).\n Zapisz wyrażenie algebraiczne opisujące pole zacieniowanej figury i oblicz jego wartość dla a = 2,5.",
     "points": 1,
-    "image": "materialyCKEz5.svg",
+    "image": true,
     "date": "materiały CKE - zad. 5",
     "answers": [
         "P=8a + 3, P=23",
@@ -282,7 +282,7 @@
     "type": "abcd",
     "content": "Dany jest trójkąt ABC, w którym kąt BCA ma miarę 35°. Punkt D leży na boku BC tego trójkąta. Odcinek AD ma taką samą długość jak odcinek BD. Kąt ADC ma miarę 130° (zobacz rysunek poniżej).\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nKąt CAB ma miarę",
     "points": 1,
-    "image": "maj2022z13.svg",
+    "image": true,
     "date": "maj 2022 - zad. 13",
     "answers": [
         "95°",
@@ -298,7 +298,7 @@
     "type": "abcd",
     "content": "W trójkącie ABC narysowano dwie wysokości: CD i AE, jak na rysunku. Kąt rozwarty pomiędzy tymi wysokościami jest równy 138°. Jaką miarę ma kąt α zaznaczony na rysunku? Wybierz właściwą odpowiedź spośród podanych.",
     "points": 1,
-    "image": "maj2021z12.svg",
+    "image": true,
     "date": "maj 2021 - zad. 12",
     "answers": [
         "38°",
@@ -314,7 +314,7 @@
     "type": "tf",
     "content": "Figura zacieniowana na rysunku jest równoległobokiem.\nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.",
     "points": 1,
-    "image": "marzec2020z11.svg",
+    "image": true,
     "date": "marzec 2020 - zad. 11",
     "answers": [
         "Suma miar kątów α i β wynosi 180°.",
@@ -328,7 +328,7 @@
     "type": "abtf",
     "content": "Na rysunku przedstawiono trójkąt równoramienny KLM o ramionach KM i LM. Miara kąta KML jest dwa razy większa niż miara kąta KLM.\nUzupełnij poniższe zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.",
     "points": 1,
-    "image": "marzec2020z12.svg",
+    "image": true,
     "date": "marzec 2020 - zad. 12",
     "answers": [
         ["Miara kąta KLM jest równa.", "40", "45"],
@@ -342,7 +342,7 @@
     "type": "abcd",
     "content": "Na rysunku przedstawiono trzy trójkąty.\nDokończ zadanie. Wybierz właściwą odpowiedź spośród podanych.\nNa podstawie informacji przedstawionych na rysunku można stwierdzić, że",
     "points": 1,
-    "image": "kwiecień2019z11.svg",
+    "image": true,
     "date": "kwiecień 2019 - zad. 11",
     "answers": [
         "trójkąt ABC jest przystający do trójkąta KLM.",
@@ -358,7 +358,7 @@
     "type": "tf",
     "content": "W trójkącie ABC największą miarę ma kąt przy wierzchołku C. Miara kąta przy wierzchołku A jest równa 48◦, a miara kąta przy wierzchołku B jest równa różnicy miary kąta przy wierzchołku C oraz miary kąta przy wierzchołku A.\nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.",
     "points": 1,
-    "image": null,
+    "image": false,
     "date": "grudzień 2018 - zad. 12",
     "answers": [
         "Kąt przy wierzchołku B ma miarę 48◦.",
@@ -372,7 +372,7 @@
     "type": "tf",
     "content": "Przekątne prostokąta ABCD przedstawionego na rysunku przecinają się pod kątem 140◦.\nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.",
     "points": 1,
-    "image": "grudzień2017z13.svg",
+    "image": true,
     "date": "grudzień 2017 - zad. 13",
     "answers": [
         "Kąt DCA ma miarę 40◦.",
@@ -386,7 +386,7 @@
     "type": "abcd",
     "content": "Każdy bok kwadratu ABCD podzielono na 3 równe części i połączono kolejno punkty podziału, w wyniku czego otrzymano ośmiokąt (rysunek).\nKtóre z poniższych zdań jest prawdziwe?\nWybierz właściwą odpowiedź spośród podanych.",
     "points": 1,
-    "image": "kwiecień2016z19.svg",
+    "image": true,
     "date": "kwiecień 2016 - zad. 19",
     "answers": [
         "Ośmiokąt jest foremny.",
@@ -402,7 +402,7 @@
     "type": "abcd",
     "content": "Na rysunku przedstawiono równoległobok ABCD i trójkąt równoramienny AED, w którym |DE| = |AE|. Miara kąta BCE jest równa 106◦.\nJaką miarę ma kąt AEC? Wybierz właściwą odpowiedź spośród podanych.",
     "points": 1,
-    "image": "kwiecień2019z12.svg",
+    "image": true,
     "date": "kwiecień 2019 - zad. 12",
     "answers": [
         "148◦",
@@ -418,7 +418,7 @@
     "type": "abcd",
     "content": "Jeden z kątów wewnętrznych trójkąta ma miarę α, drugi ma miarę o 30◦ większą niż kąt α, a trzeci ma miarę trzy razy większą niż kąt α.\nDokończ zdanie tak, aby otrzymać zdanie prawdziwe.\nTrójkąt ten jest",
     "points": 1,
-    "image": null,
+    "image": false,
     "date": "kwiecień 2013 - zad. 16",
     "answers": [
         "równoboczny.",
@@ -434,7 +434,7 @@
     "type": "abcd",
     "content": "Na rysunkach I-IV przedstawiono cztery pary trójkątów.\nNa którym rysunku trójkąty NIE SĄ przystające? Wybierz odpowiedź spośród podanych.",
     "points": 1,
-    "image": "kwiecień 2013 - zad. 17.svg",
+    "image": true,
     "date": "kwiecień 2013 - zad. 17",
     "answers": [
         "I",
@@ -450,7 +450,7 @@
     "type": "tf",
     "content": "Przedstawiony na rysunku trójkąt ABC jest prostokątny, ale nie jest równoramienny. Odcinek BE jest wysokością tego trójkąta, a BD jest dwusieczną kąta prostego.\nOceń prawdziwość poniższych zdań. Wybierz P, jeśli zdanie jest prawdziwe, lub F - jeśli jest fałszywe.",
     "points": 1,
-    "image": "materiały CKE - zad. 15.svg",
+    "image": true,
     "date": "materiały CKE - zad. 15",
     "answers": [
         "Półprosta BD jest dwusieczną kąta CBE.",
@@ -464,7 +464,7 @@
     "type": "tf",
     "content": "W trójkącie równoramiennym ABC, w którym |AC| = |BC| i kąt |ABC| = 30◦ poprowadzono wysokość CD i dwusieczną kąta ABC przecinającą bok AC w punkcie E. Wysokość i dwusieczna przecinają się w punkci F.\nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, lub F – jeśli jest fałszywe.",
     "points": 1,
-    "image": "listopad 2012 - zad. 14.svg",
+    "image": true,
     "date": "listopad 2012 - zad. 14",
     "answers": [
         "kąt |BEC| = 45◦",
@@ -478,7 +478,7 @@
     "type": "abcd",
     "content": "Rozmiar ramy roweru to długość fragmentu rury pod siodełkiem mierzona tak, jak przedstawiono na rysunku – od środka miejsca, w którym obracają się pedały do środka rury łączącej siodełko z kierownicą.\nJaki jest rozmiar ramy, której niektóre wymiary przedstawiono na rysunku? Wybierz odpowiedź spośród podanych.",
     "points": 1,
-    "image": "grudzień 2011 - zad. 7.svg",
+    "image": true,
     "date": "grudzień 2011 - zad. 7",
     "answers": [
         "49 cm",
@@ -487,5 +487,495 @@
         "59 cm"
       ],
     "correctAnswer": "53 cm"
-  }
+  },
+  {
+    "index":  32,
+    "category": "geometria",
+    "type": "abcd",
+    "content": "Listewkę o długości 50 cm planowano pociąć na równe części. Iwona zaproponowała podział na kawałki po 5 cm i zaznaczyła na listewce czerwonym kolorem linie cięcia. Agata chciała podzielić tę samą listewkę na części po 2 cm i linie cięcia zaznaczyła na zielono.\nIle razy linia czerwona pokrywała się z linią zieloną? Wybierz właściwą odpowiedź spośród podanych.",
+    "points": 1,
+    "image": false,
+    "date": "maj 2021 - zad. 13",
+    "answers": [
+        "5",
+        "4",
+        "3",
+        "2"
+      ],
+    "correctAnswer": "4"
+  },
+  {
+    "index":  33,
+    "category": "geometria",
+    "type": "abcd",
+    "content": "Na rysunku przedstawiono czworokąt zbudowany z dwóch trójkątów prostokątnych. Dane są długości boków |AB| = |BC| = 1 oraz |AD| = \\( \\sqrt{2} \\).\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Długość boku CD jest równa",
+    "points": 1,
+    "image": true,
+    "date": "kwiecień 2019 - zad. 13",
+    "answers": [
+        "\\( \\sqrt{3} \\)",
+        "2",
+        "3",
+        "\\( 2\\sqrt{2} \\)"
+      ],
+    "correctAnswer": "2"
+  },
+  {
+    "index":  34,
+    "category": "geometria",
+    "type": "abcd",
+    "content": "Na bokach trójkąta prostokątnego ABC zaznaczono punkty D i E. Odcinek DE podzielił trójkąt ABC na dwa wielokąty: trójkąt prostokątny ADE i czworokąt DBCE, jak na rysunku. Odcinek AB ma długość \\( 4\\sqrt{3} \\)cm, a odcinek DE ma długość 3 cm.\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nDługość odcinka EC jest równa",
+    "points": 1,
+    "image": true,
+    "date": "grudzień 2017 - zad. 11",
+    "answers": [
+        "1cm",
+        "\\( \\sqrt{3}\\)cm",
+        "2cm",
+        "\\( 3\\sqrt{3}\\)cm"
+      ],
+    "correctAnswer": "2cm"
+  },
+  {
+    "index":  35,
+    "category": "geometria",
+    "type": "abcd",
+    "content": "Ewa narysowała kwadrat o boku 1, prostokąt o bokach 2 i 1 oraz kąt prosty o wierzchołku O.\nNastępnie od wierzchołka O kąta prostego odmierzyła na jednym ramieniu kąta odcinek OA o długości równej przekątnej kwadratu, a na drugim ramieniu – odcinek OB o długości równej przekątnej prostokąta.\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nDługość odcinka AB jest równa",
+    "points": 1,
+    "image": true,
+    "date": "kwiecień 2016 - zad. 18",
+    "answers": [
+        "\\( \\sqrt{7} \\)",
+        "\\( \\sqrt{2}+\\sqrt{5} \\)",
+        "\\( \\sqrt{5} \\)",
+        "\\( \\sqrt{2}+\\sqrt{3} \\)"
+      ],
+    "correctAnswer": "\\( \\sqrt{7} \\)"
+  },
+  {
+    "index":  36,
+    "category": "geometria",
+    "type": "abcd",
+    "content": "W jakim stosunku można podzielić odcinek o długości 36 cm, aby z otrzymanych trzech odcinków zbudować trójkąt? Wybierz odpowiedź spośród podanych.",
+    "points": 1,
+    "image": false,
+    "date": "listopad 2012 - zad. 9",
+    "answers": [
+        "1 : 2 : 6",
+        "1 : 3 : 5",
+        "2 : 3 : 4",
+        "2 : 3 : 7"
+      ],
+    "correctAnswer": "2 : 3 : 4"
+  },
+  {
+    "index":  37,
+    "category": "geometria",
+    "type": "tf",
+    "content": "Dany jest trapez prostokątny ABCD o podstawach długości 22 cm, 10 cm i wysokości 5 cm. Odcinek AC jest przekątną tego trapezu.\nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, lub F – jeśli jest fałszywe.",
+    "points": 1,
+    "image": true,
+    "date": "listopad 2012 - zad. 15",
+    "answers": [
+        "Trójkąt ABC jest równoramienny.",
+        "Bok BC ma długość 12 cm."
+      ],
+    "correctAnswer": ["F", "F"]
+  },
+  {
+    "index":  38,
+    "category": "geometria",
+    "type": "abcd",
+    "content": "Dany jest prostokąt ABCD o wymiarach 12 cm i 16 cm. Odcinek AC jest przekątną tego prostokąta. Odcinek DS jest wysokością trójkąta ACD (patrz rysunek).\nOblicz długość odcinka DS. Zapisz obliczenia.",
+    "points": 3,
+    "image": true,
+    "date": "maj 2021 - zad. 19",
+    "answers": [
+        "9,6cm",
+        "odp",
+        "odp",
+        "odp"
+      ],
+    "correctAnswer": "9,6cm"
+  },
+  {
+    "index":  39,
+    "category": "geometria",
+    "type": "abcd",
+    "content": "Dany jest trójkąt równoboczny ABC o boku długości 10 cm. W tym trójkącie poprowadzono wysokość CD.\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nObwód trójkąta ADC jest równy",
+    "points": 1,
+    "image": false,
+    "date": "kwiecień 2020 - zad. 14",
+    "answers": [
+        "\\( 10\\sqrt{3}cm \\)",
+        "\\( 20\\sqrt{3}cm \\)",
+        "\\( 5+5\\sqrt{3}cm \\)",
+        "\\( (15+5\\sqrt{3})cm \\)"
+      ],
+    "correctAnswer": "\\( (15+5\\sqrt{3})cm \\)"
+  },
+  {
+    "index":  40,
+    "category": "geometria",
+    "type": "tf",
+    "content": "W okręgu o środku S i promieniu 5 cm narysowano cięciwę AB o długości 8 cm.\nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.",
+    "points": 1,
+    "image": true,
+    "date": "marzec 2020 - zad. 14",
+    "answers": [
+        "Odległość punktu S od cięciwy AB jest równa 3 cm.",
+        "Obwód trójkąta ASB jest równy 16 cm."
+      ],
+    "correctAnswer": ["P", "F"]
+  },
+  {
+    "index":  41,
+    "category": "geometria",
+    "type": "abcd",
+    "content": "Prosta EF dzieli prostokąt ABCD na kwadrat EF CD o obwodzie 32 cm i prostokąt ABF E o obwodzie o 6 cm mniejszym od obwodu kwadratu EF CD.\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nDługość odcinka AE jest równa",
+    "points": 1,
+    "image": true,
+    "date": "grudzień 2017 - zad. 4",
+    "answers": [
+        "2cm",
+        "4cm",
+        "5cm",
+        "8cm"
+      ],
+    "correctAnswer": "5cm"
+  },
+  {
+    "index":  42,
+    "category": "geometria",
+    "type": "tf",
+    "content": "Na rysunku przedstawiono prostokąt, którego wymiary są opisane za pomocą wyrażeń.\nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, lub F – jeśli jest fałszywe.",
+    "points": 1,
+    "image": true,
+    "date": "kwiecień 2014 - zad. 16",
+    "answers": [
+        "Jeden z boków prostokąta ma długość 8.",
+        "Obwód prostokąta jest równy 20."
+      ],
+    "correctAnswer": ["P", "P"]
+  },
+  {
+    "index":  43,
+    "category": "geometria",
+    "type": "abcd",
+    "content": "Narysowana poniżej figura składa się z kwadratu i trzech ćwiartek kół.\nDokończ zdanie, wybierając odpowiedź spośród podanych.\nObwód tej figury jest równy",
+    "points": 1,
+    "image": true,
+    "date": "grudzień 2011 - zad. 18",
+    "answers": [
+        "10π + 8",
+        "10π + 4",
+        "4π + 8",
+        "4π + 4"
+      ],
+    "correctAnswer": "4π + 8"
+  },
+  {
+    "index":  44,
+    "category": "geometria",
+    "type": "abcd",
+    "content": "Dany jest romb ABCD. Obwód tego rombu jest równy 52 cm, a przekątna AC ma długość 24 cm (zobacz rysunek poniżej). Długość przekątnej BD rombu ABCD wynosi",
+    "points": 3,
+    "image": true,
+    "date": "maj 2022 - zad. 18",
+    "answers": [
+        "10cm",
+        "odp",
+        "odp",
+        "odp"
+      ],
+    "correctAnswer": "10cm"
+  },
+  {
+    "index":  45,
+    "category": "geometria",
+    "type": "abcd",
+    "content": "Na rysunku przedstawiono kwadrat ABCD o polu 400 \\(cm^2\\). Figurę tę podzielono na kwadrat \\(K_1\\) o polu 49 \\(cm^2\\) i kwadrat \\(K_2\\) oraz figurę F (patrz rysunek).\nOblicz obwód figury F.",
+    "points": 3,
+    "image": true,
+    "date": "marzec 2021 - zad. 19",
+    "answers": [
+        "66 cm",
+        "odp",
+        "odp",
+        "odp"
+      ],
+    "correctAnswer": "66 cm"
+  },
+  {
+    "index":  46,
+    "category": "geometria",
+    "type": "abcd",
+    "content": "Paweł wyciął z kartonu trójkąt prostokątny ABC o przyprostokątnych 12 cm i 16 cm (rysunek I). Następnie połączył środki dłuższej przyprostokątnej i przeciwprostokątnej linią przerywaną równoległą do krótszej przyprostokątnej, a potem rozciął trójkąt ABC wzdłuż tej linii na dwie figury. Z tych figur złożył trapez PRST (rysunek II).\nOblicz różnicę obwodów trójkąta ABC i trapezu PRST.",
+    "points": 3,
+    "image": true,
+    "date": "kwiecień 2019 - zad. 21",
+    "answers": [
+        "4 cm",
+        "odp",
+        "odp",
+        "odp"
+      ],
+    "correctAnswer": "4 cm"
+  },
+  {
+    "index":  47,
+    "category": "geometria",
+    "type": "tf",
+    "content": "Na rysunku przedstawiono trapez KLMN zbudowany z trzech jednakowych trójkątów prostokątnych o przyprostokątnych długości 3 cm i 4 cm.\nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.",
+    "points": 1,
+    "image": true,
+    "date": "maj 2022 - zad. 15",
+    "answers": [
+        "Pole trapezu KLMN jest równe 18 \\(cm^2\\).",
+        "Obwód trapezu KLMN jest równy 18 cm."
+      ],
+    "correctAnswer": ["P","P"]
+  },
+  {
+    "index":  48,
+    "category": "geometria",
+    "type": "tf",
+    "content": "W zeszycie w linie narysowano dwa równoległoboki i trójkąt w sposób pokazany na rysunku. Odległości między sąsiednimi liniami są jednakowe. Podstawy wszystkich tych figur mają taką samą długość. Pole równoległoboku P jest równe 4.\nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.",
+    "points": 1,
+    "image": true,
+    "date": "marzec 2021 - zad. 11",
+    "answers": [
+        "Pole równoległoboku R jest równe 8.",
+        "Pole trójkąta S jest równe 4."
+      ],
+    "correctAnswer": ["P","P"]
+  },
+  {
+    "index":  49,
+    "category": "geometria",
+    "type": "tf",
+    "content": "Prostokąt ABCD podzielono odcinkiem EF na dwa prostokąty. Odcinek EF ma długość 11 cm, a odcinek ED ma długość 2 cm. Pole prostokąta EF CD stanowi \\( \\frac{2}{7} \\) pola prostokąta ABCD.\nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.",
+    "points": 1,
+    "image": true,
+    "date": "marzec 2021 - zad. 13",
+    "answers": [
+        "Pole prostokąta ABCD jest równe 77 \\(cm^2\\).",
+        "Odcinek AE ma długość 7 cm."
+      ],
+    "correctAnswer": ["P","F"]
+  },
+  {
+    "index":  50,
+    "category": "geometria",
+    "type": "abcd",
+    "content": "Bok rombu ma długość 17 cm, a jedna z jego przekątnych ma długość 30 cm.\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nPole tego rombu jest równe",
+    "points": 1,
+    "image": false,
+    "date": "marzec 2021 - zad. 14",
+    "answers": [
+        "120 \\(cm^2\\)",
+        "240 \\(cm^2\\)",
+        "255 \\(cm^2\\)",
+        "480 \\(cm^2\\)"
+      ],
+    "correctAnswer": "240 \\(cm^2\\)"
+  },
+  {
+    "index":  51,
+    "category": "geometria",
+    "type": "tf",
+    "content": "Kąt ostry rombu ma miarę 60◦, a bok tego rombu ma długość równą 4 cm.\nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F - jeśli jest fałszywe.",
+    "points": 1,
+    "image": false,
+    "date": "kwiecień 2020 - zad. 11",
+    "answers": [
+        "Krótsza przekątna dzieli ten romb na dwa trójkąty równoboczne.",
+        "Pole tego rombu jest równe \\(8\\sqrt{3}cm^2\\)."
+      ],
+    "correctAnswer": ["P","P"]
+  },
+  {
+    "index":  52,
+    "category": "geometria",
+    "type": "tf",
+    "content": "Na rysunku przedstawiono fragment podłogi pokrytej kaflami w kształcie kwadratów o boku długości 60 cm i kaflami w kształcie jednakowych prostokątów (patrz rysunek I). Na podłodze tej położono prostokątny dywan (patrz rysunek II).\nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F - jeśli jest fałszywe.",
+    "points": 1,
+    "image": true,
+    "date": "grudzień 2018 - zad. 5",
+    "answers": [
+        "Dywan ma powierzchnię większą niż powierzchnia 4 kwadratowych kafli.",
+        "Dywan ma wymiary 90 cm x 120 cm."
+      ],
+    "correctAnswer": ["F","F"]
+  },
+  {
+    "index":  53,
+    "category": "geometria",
+    "type": "tf",
+    "content": "Punkty E i F są środkami boków BC i CD kwadratu ABCD (rysunek).\nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F - jeśli jest fałszywe.",
+    "points": 1,
+    "image": true,
+    "date": "kwiecień 2016 - zad. 17",
+    "answers": [
+        "Pole trójkąta FEC stanowi \\(\\frac{1}{8}\\) pola kwadratu ABCD.",
+        "Pole czworokąta DBEF stanowi \\(\\frac{3}{8}\\) pola kwadratu ABCD."
+      ],
+    "correctAnswer": ["P","P"]
+    },
+    {
+      "index":  54,
+      "category": "geometria",
+      "type": "tf",
+      "content": "W równoległoboku ABCD bok AB jest dwa razy dłuższy od boku AD. Punkt K jest środkiem boku AB, a punkt L jest środkiem boku CD.\nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F - jeśli jest fałszywe.",
+      "points": 1,
+      "image": true,
+      "date": "kwiecień 2013 - zad. 14",
+      "answers": [
+          "Trójkąt ABL ma takie samo pole, jak trójkąt ABD.",
+          "Pole równoległoboku ABCD jest cztery razy większe od pola trójkąta AKD."
+        ],
+      "correctAnswer": ["P","P"]
+    },
+    {
+      "index":  55,
+      "category": "geometria",
+      "type": "abcd",
+      "content": "Kąt ostry rombu ma miarę 45◦, a wysokość rombu jest równa h.\nDokończ zdanie tak, aby otrzymać zdanie prawdziwe.\nPole tego rombu można wyrazić wzorem",
+      "points": 1,
+      "image": true,
+      "date": "kwiecień 2013 - zad. 18",
+      "answers": [
+          "P = \\(h^2\\)",
+          "P = \\(h^2\\sqrt{2}\\)",
+          "P = \\\\frac{(h^2\\sqrt{2}}{2}\\)",
+          "P = \\\\frac{(h^2\\sqrt{3}}{4}\\)"
+        ],
+      "correctAnswer": "P = \\(h^2\\sqrt{2}\\)"
+    },
+    {
+      "index":  56,
+      "category": "geometria",
+      "type": "tf",
+      "content": "Z kwadratowego kartonika odcięto naroża, tak jak pokazano na rysunku i otrzymano ośmiokąt foremny o bokach długości 4.\nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F - jeśli jest fałszywe.",
+      "points": 1,
+      "image": true,
+      "date": "listopad 2012 - zad. 16",
+      "answers": [
+          "Kartonik był kwadratem o boku 12.",
+          "Suma pól odciętych naroży jest równa 16."
+        ],
+      "correctAnswer": ["F","P"]
+    },
+    {
+      "index":  57,
+      "category": "geometria",
+      "type": "abcd",
+      "content": "Kształt i wymiary deski do krojenia przedstawiono na rysunku.\nDokończ zdanie tak, aby otrzymać zdanie prawdziwe.\nPowierzchnia tej deski (w \\(cm^2\\)) jest równa",
+      "points": 1,
+      "image": true,
+      "date": "kwiecień 2012 - zad. 18",
+      "answers": [
+          "400 + 50π",
+          "40 + 50π",
+          "400 + 100π",
+          "40 + 100π"
+        ],
+      "correctAnswer": "400 + 50π"
+    },
+    {
+      "index":  58,
+      "category": "geometria",
+      "type": "abcd",
+      "content": "Na siatce kwadratowej narysowano trójkąt. Bok kwadratu siatki jest równy 1.\nDokończ zdanie, wybierając odpowiedź spośród podanych.\nPole narysowanego trójkąta jest równe",
+      "points": 1,
+      "image": true,
+      "date": "grudzień 2011 - zad. 17",
+      "answers": [
+          "3",
+          "6",
+          "12",
+          "18"
+        ],
+      "correctAnswer": "6"
+    },
+    {
+      "index":  59,
+      "category": "geometria",
+      "type": "abcd",
+      "content": "Trapez równoramienny ABCD, którego pole jest równe 72 \\(cm^2\\) , podzielono na trójkąt AED i trapez EBCD. Odcinek AE ma długość równą 4 cm, a odcinek CD jest od niego 2 razy dłuższy. Oblicz pole trójkąta AED.",
+      "points": 3,
+      "image": true,
+      "date": "marzec 2020 - zad. 20",
+      "answers": [
+          "12 \\(cm^2\\)",
+          "odp",
+          "odp",
+          "odp"
+        ],
+      "correctAnswer": "12 \\(cm^2\\)"
+    },
+    {
+      "index":  60,
+      "category": "geometria",
+      "type": "abcd",
+      "content": "Prostokątną działkę o powierzchni \\(cm^2\\) podzielono na trzy prostokątne działki o jednakowych wymiarach, w sposób przedstawiony na rysunku.\nJakie wymiary miała działka przed podziałem?",
+      "points": 3,
+      "image": true,
+      "date": "kwiecień 2019 - zad. 20",
+      "answers": [
+          "50m × 75m",
+          "odp",
+          "odp",
+          "odp"
+        ],
+      "correctAnswer": "50m × 75m"
+    },
+    {
+      "index":  61,
+      "category": "geometria",
+      "type": "abcd",
+      "content": "Prostokąt ABCD o wymiarach 7 cm i 8 cm rozcięto wzdłuż prostej a na dwa trapezy tak, jak pokazano na rysunku. Odcinek CL ma długość 3,2 cm.\nPole trapezu KBCL jest czterokrotnie mniejsze od pola prostokąta ABCD. Oblicz długość odcinka KB.",
+      "points": 2,
+      "image": true,
+      "date": "grudzień 2018 - zad. 16",
+      "answers": [
+          "0,8 cm",
+          "odp",
+          "odp",
+          "odp"
+        ],
+      "correctAnswer": "0,8 cm"
+    },
+    {
+      "index":  62,
+      "category": "geometria",
+      "type": "abcd",
+      "content": "Prostokątny pasek papieru o wymiarach 12 cm na 2 cm jest z jednej strony biały, a z drugiej – szary. Ten pasek złożono w sposób pokazany na rysunku.\nPole widocznej szarej części paska jest równe 8 \\(cm^2\\). Jakie pole ma widoczna biała część paska?",
+      "points": 3,
+      "image": true,
+      "date": "grudzień 2017 - zad. 21",
+      "answers": [
+          "14 \\(cm^2\\)",
+          "odp",
+          "odp",
+          "odp"
+        ],
+      "correctAnswer":  "14 \\(cm^2\\)"
+    },
+    {
+      "index":  63,
+      "category": "geometria",
+      "type": "abcd",
+      "content": "Obwód trapezu równoramiennego jest równy 72 cm, ramię ma długość 20 cm, a różnica długości podstaw wynosi 24 cm. Oblicz pole tego trapezu.",
+      "points": 4,
+      "image": false,
+      "date": "kwiecień 2012 - zad. 23",
+      "answers": [
+          "256 \\(cm^2\\)",
+          "odp",
+          "odp",
+          "odp"
+        ],
+      "correctAnswer":  "256 \\(cm^2\\)"
+    }
 ]

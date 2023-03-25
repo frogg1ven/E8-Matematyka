@@ -13,7 +13,7 @@
         <div class="center">
           <div v-if="isImageVisible" >
             <ion-row class="padding10">
-                <img :src="require(`@/assets/${image}`)" class="image-container"/>
+                <img :src="require(`@/assets/${data[this.questionNumber].date}.svg`)" class="image-container"/>
             </ion-row>
           </div>
           <ion-row class="margin-bottom-10 container" >
@@ -192,7 +192,7 @@ export default defineComponent({
       lastIndex: 0,
       tf: ["T", "F"],
       isImageVisible: false,
-      image: null,
+      image: false,
     };
   },
   methods: {
@@ -234,6 +234,7 @@ export default defineComponent({
       // sprawdzenie czy jest jeszcze jakieś pytanie z danej kategorii 
       if (this.questionNumber < this.lastIndex) {
         this.questionNumber++;
+        console.log("pytanie: " + this.questionNumber);
         this.taskType = this.data[this.questionNumber].type;
         this.data[this.questionNumber].image ? this.isImageVisible = true : this.isImageVisible = false;
         this.image = this.data[this.questionNumber].image;
