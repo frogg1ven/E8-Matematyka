@@ -9,7 +9,9 @@
           </ion-row>
           <ion-row>
             <ion-button @click="selectCategory" class="button95 margin-top-10" style="font-size: large">
-              Kategorie
+              <ion-label class="label-padding">
+                Kategorie
+              </ion-label>
             </ion-button>
           </ion-row>
         </div>
@@ -25,6 +27,7 @@ import {
   IonButton,
   IonRow,
   IonImg,
+  IonLabel
 } from "@ionic/vue";
 
 import image from "@/assets/logo.svg"
@@ -36,6 +39,7 @@ export default defineComponent({
     IonButton,
     IonRow,
     IonImg,
+    IonLabel
   },
   data: function(){
     return {
@@ -47,6 +51,5 @@ export default defineComponent({
       this.$router.push({ path: 'categories' })
     },
   },
-
 });
 </script>

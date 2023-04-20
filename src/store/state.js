@@ -1,6 +1,7 @@
 export default () => ({
-    selectedCategory: 'geometria',
+    selectedCategory: 'pierwiastki',
     answers: [['-','-','-']],
     points: [],
-    time: 0
+    time: 0,
+    numberOfRandomQuestions: 10,
   });

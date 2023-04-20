@@ -11,5 +11,8 @@ export default {
     SET_TIME(state, time) {
       state.time = time;
     },
+    SET_NUMBER_OF_RANDOM_QUESTIONS(state, val) {
+      state.numberOfRandomQuestions = val;
+    }
   };
   

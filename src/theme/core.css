@@ -1,11 +1,38 @@
-* {
-  font-family: Nunito, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
-    "Segoe UI Symbol", "Noto Color Emoji" !important;
-}
+/* * {
+  font-family: "Nunito", "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+} */
+/* * {
+  font-family: sans-serif;
+} */
 
 ion-content {
   --background: linear-gradient(180deg, #ceffee 10%, #8dfad4 100%);
+}
+
+ion-tab-button {
+  --background: #73d1b0;
+  border-radius: 5px;
+  --background-activated: transparent;
+  --background-hover: var(--ion-color-primary-contrast, #fff);
+  --background-focused: var(--ion-color-primary-contrast, #fff);
+  --background-activated-opacity: 0;
+  --background-focused-opacity: 0.24;
+  --background-hover-opacity: 0.08;
+  --box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+}
+
+.custom-button-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.button95 {
+  width: 95%;
+  display: block;
+  margin: 0 auto;
+  white-space: normal;
+  height: auto;
 }
 
 .button95-left {
@@ -13,7 +40,9 @@ ion-content {
   display: block;
   margin: 0 auto;
   margin-right: 0;
-  font-size: clamp(10px, 1.5vw, 32px);
+  margin-bottom: calc(10px + 1%);
+  white-space: pre-wrap;
+  /* height: auto; */
 }
 
 .button95-right {
@@ -21,14 +50,45 @@ ion-content {
   display: block;
   margin: 0 auto;
   margin-left: 0;
-  font-size: clamp(10px, 1.5vw, 32px);
+  margin-bottom: calc(10px + 1%);
+  white-space: pre-wrap;
+  /* height: auto; */
 }
 
-.button95 {
+.button95-left-c {
+  width: 95%;
+  display: block;
+  margin: 0 auto;
+  margin-right: 0;
+  font-size: clamp(10px, 1.5vw, 32px);
+  white-space: pre-wrap;
+  height: 100% !important;
+  white-space: normal !important;
+}
+
+.button95-right-c {
+  width: 95%;
+  display: block;
+  margin: 0 auto;
+  margin-left: 0;
+  font-size: clamp(10px, 1.5vw, 32px);
+  white-space: pre-wrap;
+  height: 100% !important;
+  white-space: normal !important;
+}
+
+.button95-c {
   width: 95%;
   display: block;
   margin: 0 auto;
   font-size: clamp(10px, 1.5vw, 32px);
+  white-space: normal;
+  height: auto;
+}
+
+
+.label-padding {
+  padding: calc(1% + 10px) 0;
 }
 
 .center {
@@ -38,12 +98,15 @@ ion-content {
   transform: translate(-50%, -50%);
   text-align: center;
   width: 100%;
+  max-height: 100vh;
+  /* overflow-y: auto; */
+  top: min(100vh - 100px, 50vh) !important;
 }
+
 
 .ct {
   width: 100%;
   text-align: center;
-  font-weight: bold;
   font-size: xx-large;
   color: black;
 }
@@ -52,12 +115,11 @@ ion-content {
   width: 100%;
   text-align: center;
   font-size: large;
-  font-weight: bold;
   color: black;
 }
 
 .margin-top-10 {
-  margin-top: 10%;
+  margin-top: calc(10px + 1%);
 }
 
 .margin-bottom-10 {
@@ -71,9 +133,52 @@ ion-content {
   border-radius: 10px;
   text-align: center;
   /* min-width: fit-content; */
+  width: 95vw;
+  margin-left: 2.5vw;
+  /* max-width: 600px; */
+  position: relative;
+  margin-bottom: calc(10px + 1%);
+  margin-top: 0;
+}
+
+.container-half {
+  background-color: #e1fdf2;
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 10px;
+  text-align: center;
+  margin: 0;
+  /* min-width: fit-content; */
+  /* max-width: 600px; */
+  position: relative;
+  margin-bottom: calc(10px + 1%);
+  margin-top: 0;
+}
+
+.row-offset-95 {
+  width: 95vw; 
+  margin-left: 2.5vw;
+}
+
+.container-95 {
+  background-color: #e1fdf2;
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 10px;
+  text-align: center;
+  /* min-width: fit-content; */
   /* width: 90vw; */
   /* max-width: 600px; */
   position: relative;
+  margin-bottom: calc(10px + 1%);
+  margin-top: 0;
+  width: 95%;
+}
+
+@media (max-width: 248px) {
+  .narrow {
+    display: none;
+  }
 }
 
 .ion-text-none {
@@ -82,6 +187,7 @@ ion-content {
 
 .image-container {
   max-height: 30vh !important;
+  min-height: 15vh !important;
   display: block;
   margin: auto;
 }
@@ -89,4 +195,34 @@ ion-content {
 .padding10 { 
   padding-right: 10%; 
   padding-left: 10%;
+}
+
+.offset {
+  height: 35px !important;
+}
+
+.alert-wrapper .alert-head {
+  background-color: var(--ion-color-primary);
+  margin-bottom: 15px;
+}
+
+.alert-wrapper .alert-message {
+  margin-bottom: 0;
+  text-align: center !important;
+}
+
+.alert-wrapper .alert-button-group {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+
+.alert-wrapper .alert-button-group button {
+  border: 1px solid var(--ion-color-primary);
+  width: 45%;
+  border-radius: 6px;
+}
+.alert-wrapper .alert-button-group button span {
+  display: flex;
+  justify-content: center;
 }

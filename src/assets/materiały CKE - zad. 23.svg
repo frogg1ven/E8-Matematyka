@@ -1,0 +1,1574 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg
+   viewBox="0 0 90.135129 45.671843"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="materiały CKE - zad. 23.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.2938725"
+     inkscape:cx="37.097937"
+     inkscape:cy="76.900932"
+     inkscape:window-width="1657"
+     inkscape:window-height="1230"
+     inkscape:window-x="3434"
+     inkscape:window-y="184"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="-61.057022"
+       y="23.959084"
+       width="36.325066"
+       height="20.86759"
+       id="rect6215" />
+    <rect
+       x="-120.5683"
+       y="-125.20554"
+       width="381.79959"
+       height="346.24741"
+       id="rect6209" />
+    <rect
+       x="-61.829895"
+       y="157.66623"
+       width="113.61243"
+       height="35.552189"
+       id="rect6203" />
+    <rect
+       x="60.115463"
+       y="-215.32268"
+       width="240.46185"
+       height="127.88199"
+       id="rect4357" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1">
+      <path
+         d="M 0,0 H 601.09294 V 161.42086 H 0 Z"
+         id="path9" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-9">
+      <path
+         d="M 0,0 H 601.09294 V 148.47523 H 0 Z"
+         id="path390" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-3"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-1">
+      <path
+         d="m 200.09794,0.79911319 h 50.34413 V 100.04897 h -50.34413 z"
+         id="path580" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2">
+      <path
+         d="M 200.09766,100.04883 V 0.79882812 h 50.34375 -50.34375 z"
+         id="path583" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath3">
+      <path
+         d="M 250.44207,0.79911319 H 354.00714 V 100.04897 H 250.44207 Z"
+         id="path586" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath4">
+      <path
+         d="M 269.78125,67.605469 V 99.25 h 31.00586 V 67.605469 Z"
+         id="path589" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath5">
+      <path
+         d="M 301.58594,67.605469 V 99.25 h 30.8457 V 67.605469 Z"
+         id="path592" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath6">
+      <path
+         d="m 354.00714,0.79911319 h 132.0135 V 100.04897 h -132.0135 z"
+         id="path595" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath7">
+      <path
+         d="M 354.00781,100.04883 V 0.79882812 H 486.02148 354.00781 Z"
+         id="path598" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath8">
+      <path
+         d="M 0,0.79911319 H 601.09294 V 135.20995 H 0 Z"
+         id="path601" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-2"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-4">
+      <path
+         d="M 0,0 H 601.09294 V 105.48294 H 0 Z"
+         id="path927" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-28"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-2">
+      <path
+         d="M 0,0 H 601.09294 V 186.03355 H 0 Z"
+         id="path1066" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2-6">
+      <path
+         d="m 283.04589,160.46193 h 14.70368 v 17.42067 h -14.70368 z"
+         id="path1069" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath3-3">
+      <path
+         d="m 357.52324,77.513979 h 12.14652 v 17.420667 h -12.14652 z"
+         id="path1072" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-24"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-41">
+      <path
+         d="M -278.8905,0.79911319 H 322.20244 V 147.51629 H -278.8905 Z"
+         id="path1190" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2-1">
+      <path
+         d="M 0.47946791,13.904569 H 15.183151 V 31.325237 H 0.47946791 Z"
+         id="path1193" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath3-0">
+      <path
+         d="M 58.974553,69.043379 H 70.961251 V 86.304224 H 58.974553 Z"
+         id="path1196" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-34"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-0">
+      <path
+         d="M 0,0 H 601.09294 V 196.2622 H 0 Z"
+         id="path1293" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2-5">
+      <path
+         d="m 271.05919,24.612686 h 31.48506 v 80.710434 h -31.48506 z"
+         id="path1296" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath3-38">
+      <path
+         d="m 303.34337,24.612686 h 79.27202 v 80.710434 h -79.27202 z"
+         id="path1299" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath4-3">
+      <path
+         d="m 383.41451,24.612686 h 31.48506 v 80.710434 h -31.48506 z"
+         id="path1302" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath5-6">
+      <path
+         d="m 271.05919,110.1178 h 31.48506 v 53.86023 h -31.48506 z"
+         id="path1305" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath6-3">
+      <path
+         d="m 303.34337,110.1178 h 79.27202 v 53.86023 h -79.27202 z"
+         id="path1308" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath7-4">
+      <path
+         d="m 383.41451,110.1178 h 31.48506 v 53.86023 h -31.48506 z"
+         id="path1311" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-9"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-6">
+      <path
+         d="M -194.82379,0 H 406.26914 V 120.50627 H -194.82379 Z"
+         id="path1651" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-0"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-26">
+      <path
+         d="M -267.38327,0.79911319 H 333.70967 V 185.23444 h -601.09294 z"
+         id="path1810" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-5"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-95">
+      <path
+         d="M 0,0 H 601.09294 V 146.39754 H 0 Z"
+         id="path1956" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2-9">
+      <path
+         d="m 317.24793,56.737036 16.78138,-9.589358 8.4706,14.703683 -16.62155,9.74918 z"
+         id="path1959" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath3-5">
+      <path
+         d="m 331.47215,48.586082 21.57606,-12.466166 8.4706,14.863505 -21.41624,12.306343 z"
+         id="path1962" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-8"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-65">
+      <path
+         d="M 0,0 H 601.09294 V 217.19896 H 0 Z"
+         id="path2395" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2-0">
+      <path
+         d="m 262.90824,20.61712 h 64.40852 v 162.69944 h -64.40852 z"
+         id="path2398" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath3-380">
+      <path
+         d="m 327.31676,20.61712 h 40.11548 v 56.577214 h -40.11548 z"
+         id="path2401" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath4-5">
+      <path
+         d="m 368.23136,20.61712 h 55.93792 v 56.577214 h -55.93792 z"
+         id="path2404" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath5-3">
+      <path
+         d="m 327.79623,77.993447 h 96.37305 V 183.31656 h -96.37305 z"
+         id="path2407" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-6"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-5">
+      <path
+         d="M 0,0 H 601.09294 V 254.75728 H 0 Z"
+         id="path2790" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2-90">
+      <path
+         d="m 149.75381,152.4708 h 14.70368 v 17.42066 h -14.70368 z"
+         id="path2793" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-69"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-3">
+      <path
+         d="M 0,0 H 686.11858 V 173.40756 H 0 Z"
+         id="path3106" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-26"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-21">
+      <path
+         d="M 0,0 H 686.11858 V 159.66281 H 0 Z"
+         id="path3364" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-88"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-50">
+      <path
+         d="M 0,0 H 686.11858 V 159.66281 H 0 Z"
+         id="path3431" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-31"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-96">
+      <path
+         d="M 0,0 H 686.11858 V 154.54849 H 0 Z"
+         id="path3622" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2-03">
+      <path
+         d="M 259.23232,14.224215 H 427.36573 V 120.82591 H 259.23232 Z"
+         id="path3625" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath3-1">
+      <path
+         d="M 260.66992,15.023438 V 46.189453 H 425.92773 V 15.023438 Z"
+         id="path3628" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath4-51">
+      <path
+         d="M 260.66992,47.306641 V 120.02734 H 425.92773 V 47.306641 Z"
+         id="path3631" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-242"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-36">
+      <path
+         d="M -78.472915,4.9545018 H 607.64567 V 187.95142 H -78.472915 Z"
+         id="path4094" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2-3">
+      <path
+         d="m 97.971277,4.9545018 h 5.593793 V 22.215347 h -5.593793 z"
+         id="path4097" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath3-33">
+      <path
+         d="m 436.47562,85.984579 h 20.61712 v 15.982261 h -20.61712 z"
+         id="path4100" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath4-7">
+      <path
+         d="m 451.49895,85.984579 h 18.05996 v 15.982261 h -18.05996 z"
+         id="path4103" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-4"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-22">
+      <path
+         d="M 0,0 H 686.11858 V 37.078852 H 0 Z"
+         id="path4361" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-698"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-42">
+      <path
+         d="M 0,0 H 686.11858 V 185.55408 H 0 Z"
+         id="path4610" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-67"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-48">
+      <path
+         d="M 0,0 H 686.11858 V 133.61172 H 0 Z"
+         id="path4869" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-49"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-31">
+      <path
+         d="M -253.4787,0.79911319 H 432.63988 V 96.37305 H -253.4787 Z"
+         id="path5198" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-678"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-364">
+      <path
+         d="M -288.32004,0.79911319 H 397.79854 V 136.80818 h -686.11858 z"
+         id="path5375" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-21"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-7">
+      <path
+         d="M 0,0 H 686.11858 V 192.26663 H 0 Z"
+         id="path5555" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-30"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-69">
+      <path
+         d="M 0,0 H 686.11858 V 188.11124 H 0 Z"
+         id="path5858" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-38"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-961">
+      <path
+         d="M 0,0 H 686.11858 V 126.41971 H 0 Z"
+         id="path6104" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-1"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-8">
+      <path
+         d="m 259.71179,0.79911319 h 55.29863 V 113.6339 h -55.29863 z"
+         id="path6395" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2-12">
+      <path
+         d="M 315.80953,0.79911319 H 427.04609 V 56.896859 H 315.80953 Z"
+         id="path6398" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath3-381">
+      <path
+         d="M 315.80953,57.695972 H 427.04609 V 113.6339 H 315.80953 Z"
+         id="path6401" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-39"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-52">
+      <path
+         d="M 0,0 H 686.11858 V 198.65954 H 0 Z"
+         id="path6724" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2-4">
+      <path
+         d="m 289.11915,152.4708 h 14.70368 v 17.42066 h -14.70368 z"
+         id="path6727" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath3-7">
+      <path
+         d="m 370.30905,48.905727 h 4.9545 v 15.662618 h -4.9545 z"
+         id="path6730" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-63"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-64">
+      <path
+         d="M -311.01485,0.79911319 H 375.10373 V 102.60613 h -686.11858 z"
+         id="path7049" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-66"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-61">
+      <path
+         d="M -311.01485,0.79911319 H 375.10373 V 102.60613 h -686.11858 z"
+         id="path7086" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-32"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-93">
+      <path
+         d="M 0,0 H 686.11858 V 242.29112 H 0 Z"
+         id="path7294" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2-905">
+      <path
+         d="m 455.17487,121.30538 h 10.70812 v 16.46173 h -10.70812 z"
+         id="path7297" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath3-2">
+      <path
+         d="m 420.97283,107.40081 h 13.10545 v 15.66262 h -13.10545 z"
+         id="path7300" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-36"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-29">
+      <path
+         d="M 0,0 H 686.11858 V 206.97032 H 0 Z"
+         id="path7711" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2-8">
+      <path
+         d="m 496.56893,136.48853 h 14.70369 v 17.42067 h -14.70369 z"
+         id="path7714" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath3-9">
+      <path
+         d="m 649.03973,134.73048 h 11.34741 v 17.26085 h -11.34741 z"
+         id="path7717" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-59"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-47">
+      <path
+         d="M 0,0 H 686.11858 V 174.04685 H 0 Z"
+         id="path8113" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-29"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-74">
+      <path
+         d="M 254.91711,30.845769 H 393.48333 V 77.673802 H 254.91711 Z"
+         id="path13132" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2-7">
+      <path
+         d="m 394.28245,30.845769 h 46.02892 v 46.828033 h -46.02892 z"
+         id="path13135" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath3-8">
+      <path
+         d="M 394.2832,77.673828 V 30.845703 h 46.02735 -46.02735 z"
+         id="path13138" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath4-8">
+      <path
+         d="m 255.07693,87.582805 h 46.18874 v 46.508385 h -46.18874 z"
+         id="path13141" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath5-4">
+      <path
+         d="M 255.07617,134.0918 V 87.582031 h 46.18945 -46.18945 z"
+         id="path13144" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath6-0">
+      <path
+         d="m 301.58532,87.582805 h 45.2298 v 46.508385 h -45.2298 z"
+         id="path13147" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath7-7">
+      <path
+         d="M 301.58594,134.0918 V 87.582031 h 45.22851 -45.22851 z"
+         id="path13150" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath8-7">
+      <path
+         d="m 347.13477,87.582805 h 46.34856 v 46.508385 h -46.34856 z"
+         id="path13153" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath9">
+      <path
+         d="m 394.28245,87.582805 h 46.02892 v 46.508385 h -46.02892 z"
+         id="path13156" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath10">
+      <path
+         d="M 394.2832,134.0918 V 87.582031 h 46.02735 -46.02735 z"
+         id="path13159" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath11">
+      <path
+         d="m 254.91711,144.0002 h 138.56622 v 46.18874 H 254.91711 Z"
+         id="path13162" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath12">
+      <path
+         d="m 394.28245,144.0002 h 46.02892 v 46.18874 h -46.02892 z"
+         id="path13165" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath13">
+      <path
+         d="M 394.2832,190.18945 V 144 h 46.02735 -46.02735 z"
+         id="path13168" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath14">
+      <path
+         d="M 0,0 H 601.09294 V 353.04821 H 0 Z"
+         id="path13171" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-99"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-94">
+      <path
+         d="m 179.64064,5.5937923 h 96.37305 V 31.165414 h -96.37305 z"
+         id="path19201" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2-84">
+      <path
+         d="M 276.81281,5.5937923 H 442.7087 V 31.165414 H 276.81281 Z"
+         id="path19204" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath3-35">
+      <path
+         d="m 443.348,5.5937923 h 63.76923 V 31.165414 H 443.348 Z"
+         id="path19207" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath4-6">
+      <path
+         d="m 179.64064,36.759207 h 96.37305 v 22.534991 h -96.37305 z"
+         id="path19210" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath5-7">
+      <path
+         d="M 276.81281,36.759207 H 442.7087 V 59.294198 H 276.81281 Z"
+         id="path19213" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath6-8">
+      <path
+         d="m 443.348,36.759207 h 63.76923 V 59.294198 H 443.348 Z"
+         id="path19216" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath7-0">
+      <path
+         d="m 179.64064,64.887991 h 96.37305 v 22.534992 h -96.37305 z"
+         id="path19219" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath8-5">
+      <path
+         d="M 276.81281,64.887991 H 442.7087 V 87.422983 H 276.81281 Z"
+         id="path19222" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath9-0">
+      <path
+         d="m 443.348,64.887991 h 63.76923 V 87.422983 H 443.348 Z"
+         id="path19225" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath10-9">
+      <path
+         d="m 179.64064,93.016775 h 96.37305 v 22.534995 h -96.37305 z"
+         id="path19228" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath11-2">
+      <path
+         d="M 276.81281,93.016775 H 442.7087 V 115.55177 H 276.81281 Z"
+         id="path19231" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath12-7">
+      <path
+         d="m 443.348,93.016775 h 63.76923 V 115.55177 H 443.348 Z"
+         id="path19234" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath13-9">
+      <path
+         d="m 179.64064,120.98574 h 96.37305 v 22.69481 h -96.37305 z"
+         id="path19237" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath14-0">
+      <path
+         d="M 276.81281,120.98574 H 442.7087 v 22.69481 H 276.81281 Z"
+         id="path19240" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath15">
+      <path
+         d="m 443.348,120.98574 h 63.76923 v 22.69481 H 443.348 Z"
+         id="path19243" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-12"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-73">
+      <path
+         d="M 0,0.79911319 H 601.09294 V 166.53519 H 0 Z"
+         id="path20172" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-14"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-79">
+      <path
+         d="M 0,0.79911319 H 601.09294 V 137.12782 H 0 Z"
+         id="path20583" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-18"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-27">
+      <path
+         d="M -272.01813,0 H 329.07481 V 192.7461 H -272.01813 Z"
+         id="path20982" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2-02">
+      <path
+         d="M 94.774824,34.52169 H 108.19993 V 51.942357 H 94.774824 Z"
+         id="path20985" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-93"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-07">
+      <path
+         d="M 0,0 H 601.09294 V 175.48526 H 0 Z"
+         id="path21326" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-22"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-969">
+      <path
+         d="M -225.50974,0.79911319 H 375.5832 V 166.69501 h -601.09294 z"
+         id="path21828" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-7"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-38">
+      <path
+         d="M -225.50974,0.79911319 H 375.5832 V 166.69501 h -601.09294 z"
+         id="path21916" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-290"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-959">
+      <path
+         d="M -197.86042,0.79911319 H 403.23251 V 51.942357 h -601.09293 z"
+         id="path22289" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-79"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-04">
+      <path
+         d="m 264.66629,8.4705998 h 54.17987 V 33.722576 h -54.17987 z"
+         id="path22677" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2-65">
+      <path
+         d="M 320.28456,8.4705998 H 422.73088 V 33.722576 H 320.28456 Z"
+         id="path22680" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath3-55">
+      <path
+         d="m 264.66629,42.033354 h 54.17987 v 25.411799 h -54.17987 z"
+         id="path22683" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath4-86">
+      <path
+         d="M 320.28456,42.033354 H 422.73088 V 67.445153 H 320.28456 Z"
+         id="path22686" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath5-1">
+      <path
+         d="m 264.66629,75.75593 h 54.17987 v 25.4118 h -54.17987 z"
+         id="path22689" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath6-2">
+      <path
+         d="m 320.28456,75.75593 h 102.44632 v 25.4118 H 320.28456 Z"
+         id="path22692" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath7-3">
+      <path
+         d="m 264.66629,109.47851 h 54.17987 v 22.85463 h -54.17987 z"
+         id="path22695" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath8-4">
+      <path
+         d="m 320.28456,109.47851 h 102.44632 v 22.85463 H 320.28456 Z"
+         id="path22698" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath9-2">
+      <path
+         d="m 264.66629,140.64392 h 54.17987 v 22.85464 h -54.17987 z"
+         id="path22701" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath10-5">
+      <path
+         d="m 320.28456,140.64392 h 102.44632 v 22.85464 H 320.28456 Z"
+         id="path22704" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-03"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-15">
+      <path
+         d="M -184.2755,0.79911319 H 416.81744 V 132.49297 H -184.2755 Z"
+         id="path23511" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-345"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-150">
+      <path
+         d="M 0,0 H 601.09294 V 180.12011 H 0 Z"
+         id="path23970" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2-92">
+      <path
+         d="m 501.36361,54.978987 h 5.5938 v 17.420668 h -5.5938 z"
+         id="path23973" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-25"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-71">
+      <path
+         d="M 0,0 H 601.09294 V 122.74379 H 0 Z"
+         id="path24455" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-08"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-02">
+      <path
+         d="M -277.61192,0.79911319 H 323.48102 V 119.86698 h -601.09294 z"
+         id="path24859" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-296"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-14">
+      <path
+         d="M -296.95046,0.79911319 H 370.14923 V 122.58396 h -667.09969 z"
+         id="path25309" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-71"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-16">
+      <path
+         d="M -231.74282,0.79911319 H 435.35686 V 112.35531 h -667.09968 z"
+         id="path25670" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-260"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-10">
+      <path
+         d="M 0,0 H 667.09969 V 146.39754 H 0 Z"
+         id="path26038" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-11"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-66">
+      <path
+         d="M 0,0.79911319 H 667.09969 V 362.47774 H 0 Z"
+         id="path26485" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-74"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-945">
+      <path
+         d="M -152.79044,0.79911319 H 514.30925 V 139.68498 h -667.09969 z"
+         id="path27064" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-43"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-11">
+      <path
+         d="M -264.18682,0.79911319 H 402.91287 V 94.774824 h -667.09969 z"
+         id="path27466" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-55"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-49">
+      <path
+         d="M 0,0 H 667.09969 V 159.66281 H 0 Z"
+         id="path27878" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-52"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-12">
+      <path
+         d="M -274.09582,0.79911319 H 393.00386 V 152.79044 h -667.09968 z"
+         id="path28350" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-23"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-650">
+      <path
+         d="M -21.576056,0.79911319 H 645.52363 V 166.69501 H -21.576056 Z"
+         id="path28718" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-081"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-75">
+      <path
+         d="M -222.47311,0.79911319 H 444.62658 V 203.61404 h -667.09969 z"
+         id="path29227" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-326"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-03">
+      <path
+         d="M -225.34992,0.95893582 H 441.74977 V 256.19569 h -667.09969 z"
+         id="path29662" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-90"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-23">
+      <path
+         d="M -264.34664,0.79911319 H 402.75305 V 146.39754 h -667.09969 z"
+         id="path30076" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-97"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-507">
+      <path
+         d="M 0,0 H 667.09969 V 214.48198 H 0 Z"
+         id="path30609" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2-9051">
+      <path
+         d="m 215.60074,43.471757 h 14.70368 v 17.420668 h -14.70368 z"
+         id="path30612" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-81"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1352.6283,-641.80682)">
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.264583"
+       x="1212.2141"
+       y="595.28833"
+       id="text28851"><tspan
+         sodipodi:role="line"
+         id="tspan28849"
+         style="stroke-width:0.264583"
+         x="1212.2141"
+         y="595.28833"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:400;font-size:3.88607px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="1388.3813"
+       y="687.21631"
+       id="text30634"><tspan
+         sodipodi:role="line"
+         x="1388.3813"
+         y="687.21631"
+         id="tspan30632"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:italic;font-variant:normal;font-weight:400;font-size:3.88607px;font-family:Calibri;fill:#000000;stroke-width:0.264583"
+           id="tspan30630"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:400;font-size:3.88607px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="1419.4139"
+       y="644.27356"
+       id="text30642"><tspan
+         sodipodi:role="line"
+         x="1419.4139"
+         y="644.27356"
+         id="tspan30640"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:italic;font-variant:normal;font-weight:400;font-size:3.88607px;font-family:Calibri;fill:#000000;stroke-width:0.264583"
+           id="tspan30636">A</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.88607px;font-family:Calibri;fill:#181717;stroke-width:0.264583"
+           id="tspan30638"> </tspan></tspan></text>
+    <path
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 1352.7129,646.2619 22.4118,3.94849 -17.1366,6.58082 z"
+       id="path30644" />
+    <path
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 1375.1379,650.19453 13.1802,9.22372 -15.8178,7.90228 -14.5016,-10.53725 z"
+       id="path30646" />
+    <path
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 1352.7129,646.2619 5.2779,10.54781 14.5121,10.54782 -14.5121,15.8204 -5.2779,-10.54518 z"
+       id="path30648" />
+    <path
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 1388.3181,659.41297 -14.499,18.48444 -15.8204,5.28052 14.5016,-15.84155 z"
+       id="path30650" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.0026429px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1352.7605,672.53497 0.4731,0.11893 c 0.055,0.0132 0.09,0.0714 0.077,0.1295 -0.016,0.0555 -0.071,0.0899 -0.1295,0.0766 l -0.4704,-0.11893 c -0.058,-0.0132 -0.092,-0.0714 -0.077,-0.12686 0.013,-0.0581 0.071,-0.0925 0.1269,-0.0793 z m 1.3531,0.34093 0.4731,0.11629 c 0.055,0.0159 0.09,0.0714 0.077,0.1295 -0.013,0.0555 -0.071,0.0899 -0.1295,0.0767 l -0.4705,-0.11893 c -0.055,-0.0132 -0.09,-0.0714 -0.077,-0.12686 0.013,-0.0581 0.071,-0.0925 0.1268,-0.0766 z m 1.3558,0.3383 0.4705,0.11628 c 0.058,0.0159 0.092,0.0714 0.077,0.1295 -0.013,0.0555 -0.071,0.0899 -0.1268,0.0766 l -0.4731,-0.11893 c -0.055,-0.0132 -0.09,-0.0714 -0.077,-0.12686 0.013,-0.0581 0.071,-0.0925 0.1295,-0.0766 z m 1.3532,0.33829 0.4704,0.11628 c 0.058,0.0159 0.093,0.0714 0.077,0.12951 -0.013,0.0555 -0.071,0.0899 -0.1269,0.0766 l -0.473,-0.11893 c -0.055,-0.0132 -0.09,-0.0714 -0.077,-0.12686 0.016,-0.0581 0.071,-0.0925 0.1295,-0.0766 z m 1.3532,0.33829 0.4731,0.11893 c 0.056,0.0132 0.09,0.0714 0.077,0.12686 -0.016,0.0555 -0.071,0.0899 -0.1295,0.0766 l -0.4704,-0.11893 c -0.058,-0.0132 -0.093,-0.0714 -0.077,-0.12686 0.013,-0.0555 0.071,-0.0899 0.1269,-0.0766 z m 1.3531,0.33829 0.4731,0.11893 c 0.055,0.0132 0.09,0.0714 0.077,0.12686 -0.013,0.0581 -0.071,0.0925 -0.1295,0.0766 l -0.4705,-0.11629 c -0.058,-0.0159 -0.092,-0.0714 -0.077,-0.1295 0.013,-0.0555 0.071,-0.0899 0.1268,-0.0766 z m 1.3532,0.33829 0.4731,0.11893 c 0.055,0.0132 0.09,0.0714 0.077,0.12686 -0.013,0.0581 -0.071,0.0925 -0.1268,0.0766 l -0.4731,-0.11629 c -0.055,-0.0159 -0.09,-0.0714 -0.077,-0.1295 0.013,-0.0555 0.071,-0.0899 0.1269,-0.0766 z m 1.3558,0.33829 0.4704,0.11893 c 0.058,0.0132 0.093,0.0714 0.077,0.12686 -0.013,0.0581 -0.071,0.0925 -0.1269,0.0766 l -0.473,-0.11628 c -0.055,-0.0159 -0.09,-0.0714 -0.077,-0.12951 0.016,-0.0555 0.071,-0.0899 0.1295,-0.0766 z m 1.3532,0.33829 0.4704,0.11893 c 0.058,0.0132 0.092,0.0714 0.079,0.12686 -0.016,0.0581 -0.074,0.0925 -0.1295,0.0793 l -0.4704,-0.11893 c -0.058,-0.0132 -0.092,-0.0714 -0.079,-0.1295 0.016,-0.0555 0.074,-0.0899 0.1295,-0.0767 z m 1.3531,0.33829 0.4731,0.11893 c 0.055,0.0132 0.09,0.0714 0.077,0.12951 -0.016,0.0555 -0.071,0.0898 -0.1295,0.0766 l -0.4705,-0.11893 c -0.058,-0.0132 -0.092,-0.0714 -0.077,-0.12686 0.013,-0.0581 0.071,-0.0925 0.1268,-0.0793 z m 1.3532,0.34094 0.4731,0.11629 c 0.055,0.0159 0.09,0.0714 0.077,0.1295 -0.013,0.0555 -0.071,0.0899 -0.1295,0.0766 l -0.4704,-0.11893 c -0.055,-0.0132 -0.09,-0.0714 -0.077,-0.12686 0.013,-0.0581 0.071,-0.0925 0.1269,-0.0766 z m 1.3558,0.33829 0.4705,0.11629 c 0.058,0.0159 0.093,0.0714 0.077,0.1295 -0.013,0.0555 -0.071,0.0899 -0.1269,0.0766 l -0.473,-0.11893 c -0.056,-0.0132 -0.09,-0.0714 -0.077,-0.12686 0.013,-0.0581 0.071,-0.0925 0.1295,-0.0766 z m 1.3532,0.33829 0.4704,0.11629 c 0.058,0.0159 0.092,0.074 0.077,0.1295 -0.013,0.0555 -0.071,0.0899 -0.1269,0.0766 l -0.4731,-0.11893 c -0.056,-0.0132 -0.09,-0.0714 -0.077,-0.12686 0.016,-0.0581 0.071,-0.0925 0.1295,-0.0766 z m 1.3531,0.33829 0.4731,0.11893 c 0.055,0.0132 0.09,0.0714 0.077,0.12686 -0.016,0.0581 -0.071,0.0925 -0.1295,0.0766 l -0.4705,-0.11628 c -0.058,-0.0159 -0.092,-0.074 -0.077,-0.12951 0.013,-0.0555 0.071,-0.0898 0.1268,-0.0766 z m 1.3532,0.33829 0.4731,0.11893 c 0.055,0.0132 0.09,0.0714 0.077,0.12686 -0.013,0.0581 -0.071,0.0925 -0.1295,0.0766 l -0.4704,-0.11628 c -0.058,-0.0159 -0.092,-0.0714 -0.077,-0.1295 0.013,-0.0555 0.071,-0.0899 0.1268,-0.0766 z m 1.3532,0.33829 0.4731,0.11893 c 0.055,0.0132 0.09,0.0714 0.077,0.12686 -0.013,0.0581 -0.071,0.0925 -0.1269,0.0766 l -0.473,-0.11629 c -0.055,-0.0159 -0.09,-0.0714 -0.077,-0.1295 0.013,-0.0555 0.071,-0.0899 0.1269,-0.0767 z m 0.6845,-0.28807 0.024,-0.4863 c 0,-0.0581 0.053,-0.10307 0.111,-0.10043 0.058,0.003 0.103,0.0529 0.1004,0.111 l -0.024,0.4863 c 0,0.0581 -0.053,0.10307 -0.111,0.10043 -0.058,-0.003 -0.1031,-0.0529 -0.1004,-0.111 z m 0.066,-1.39545 0.024,-0.48365 c 0,-0.0581 0.053,-0.10308 0.111,-0.10044 0.058,0.003 0.1031,0.0502 0.1005,0.10836 l -0.024,0.4863 c 0,0.0581 -0.053,0.10307 -0.111,0.10043 -0.058,-0.003 -0.1031,-0.0502 -0.1004,-0.111 z m 0.066,-1.39281 0.024,-0.4863 c 0,-0.0581 0.053,-0.10307 0.111,-0.10043 0.058,0.003 0.1031,0.0529 0.1005,0.11101 l -0.024,0.48629 c 0,0.0581 -0.05,0.10307 -0.111,0.10043 -0.058,-0.003 -0.1031,-0.0529 -0.1005,-0.111 z m 0.069,-1.39281 0.021,-0.4863 c 0,-0.0581 0.053,-0.10307 0.111,-0.10043 0.058,0.003 0.1031,0.0529 0.1004,0.11101 l -0.024,0.48365 c 0,0.0608 -0.05,0.10571 -0.1083,0.10307 -0.058,-0.005 -0.1057,-0.0529 -0.1005,-0.111 z m 0.066,-1.39545 0.021,-0.4863 c 0,-0.0581 0.053,-0.10307 0.111,-0.10043 0.058,0.003 0.103,0.0529 0.1004,0.111 l -0.021,0.4863 c -0.01,0.0581 -0.053,0.10307 -0.111,0.10043 -0.058,-0.003 -0.1031,-0.0529 -0.1005,-0.111 z m 0.066,-1.39281 0.021,-0.48629 c 0.01,-0.0582 0.053,-0.10308 0.111,-0.10043 0.058,0.003 0.1031,0.0529 0.1005,0.111 l -0.021,0.48629 c 0,0.0581 -0.053,0.10307 -0.111,0.10043 -0.058,-0.003 -0.1031,-0.0529 -0.1004,-0.111 z m 0.066,-1.39545 0.024,-0.48365 c 0,-0.0581 0.05,-0.10308 0.1083,-0.10043 0.061,0.003 0.1057,0.0502 0.1004,0.10836 l -0.021,0.48629 c 0,0.0581 -0.053,0.10307 -0.111,0.10043 -0.058,-0.003 -0.1031,-0.0502 -0.1004,-0.111 z m 0.066,-1.39281 0.024,-0.4863 c 0,-0.0581 0.05,-0.10307 0.111,-0.10043 0.058,0.003 0.1031,0.0529 0.1005,0.11101 l -0.024,0.48629 c 0,0.0581 -0.053,0.10307 -0.111,0.10043 -0.058,-0.003 -0.1031,-0.0529 -0.1005,-0.111 z m 0.066,-1.39281 0.024,-0.48629 c 0,-0.0581 0.053,-0.10308 0.111,-0.10043 0.058,0.003 0.1031,0.0529 0.1004,0.111 l -0.024,0.48365 c 0,0.0608 -0.053,0.10572 -0.111,0.10307 -0.058,-0.005 -0.103,-0.0529 -0.1004,-0.111 z m 0.066,-1.39545 0.024,-0.48629 c 0,-0.0581 0.053,-0.10308 0.111,-0.10043 0.058,0.003 0.103,0.0529 0.1004,0.111 l -0.024,0.48629 c 0,0.0581 -0.053,0.10307 -0.111,0.10043 -0.058,-0.003 -0.1031,-0.0529 -0.1004,-0.111 z m 0.066,-1.39281 0.024,-0.48629 c 0,-0.0582 0.053,-0.10308 0.111,-0.10043 0.058,0.003 0.1031,0.0529 0.1005,0.111 l -0.024,0.48629 c 0,0.0581 -0.053,0.10307 -0.111,0.10043 -0.058,-0.003 -0.1031,-0.0528 -0.1004,-0.111 z m 0.066,-1.39545 0.024,-0.48365 c 0,-0.0581 0.053,-0.10307 0.111,-0.10043 0.058,0.003 0.1031,0.0502 0.1004,0.10836 l -0.024,0.48629 c 0,0.0581 -0.053,0.10307 -0.111,0.10043 -0.058,-0.003 -0.1031,-0.0502 -0.1005,-0.111 z m 0.066,-1.39281 0.024,-0.48629 c 0,-0.0581 0.053,-0.10308 0.111,-0.10043 0.058,0.003 0.1031,0.0528 0.1004,0.111 l -0.024,0.48629 c 0,0.0582 -0.05,0.10308 -0.111,0.10043 -0.058,-0.003 -0.103,-0.0529 -0.1004,-0.111 z m 0.069,-1.39281 0.021,-0.48629 c 0,-0.0582 0.053,-0.10307 0.111,-0.10043 0.058,0.003 0.103,0.0529 0.1004,0.111 l -0.024,0.48365 c 0,0.0608 -0.05,0.10572 -0.1084,0.10307 -0.058,-0.005 -0.1057,-0.0529 -0.1004,-0.111 z m 0.066,-1.39545 0.021,-0.48629 c 0,-0.0581 0.053,-0.10308 0.111,-0.10043 0.058,0.003 0.1031,0.0529 0.1005,0.111 l -0.021,0.48629 c -0.01,0.0581 -0.053,0.10308 -0.111,0.10043 -0.058,-0.003 -0.1031,-0.0529 -0.1004,-0.111 z m 0.066,-1.39281 0.021,-0.48629 c 0.01,-0.0582 0.053,-0.10307 0.111,-0.10043 0.058,0.003 0.1031,0.0529 0.1004,0.111 l -0.021,0.48629 c 0,0.0582 -0.053,0.10308 -0.111,0.10043 -0.058,-0.003 -0.1031,-0.0528 -0.1004,-0.111 z m 0.066,-1.39545 0.024,-0.48365 c 0,-0.0581 0.05,-0.10307 0.1084,-0.10043 0.061,0.003 0.1057,0.0502 0.1004,0.10836 l -0.021,0.48629 c 0,0.0581 -0.053,0.10308 -0.111,0.10043 -0.058,-0.003 -0.1031,-0.0502 -0.1005,-0.111 z m 0.066,-1.39281 0.024,-0.48629 c 0,-0.0581 0.05,-0.10307 0.111,-0.10043 0.058,0.003 0.1031,0.0529 0.1004,0.111 l -0.024,0.48629 c 0,0.0582 -0.053,0.10308 -0.111,0.10043 -0.058,-0.003 -0.103,-0.0529 -0.1004,-0.111 z m 0.066,-1.39281 0.024,-0.48629 c 0,-0.0581 0.053,-0.10307 0.111,-0.10043 0.058,0.003 0.103,0.0529 0.1004,0.111 l -0.024,0.48365 c 0,0.0608 -0.053,0.10572 -0.111,0.10043 -0.058,-0.003 -0.1031,-0.0502 -0.1004,-0.10836 z m 0.066,-1.39545 0.024,-0.48629 c 0,-0.0581 0.053,-0.10307 0.111,-0.10043 0.058,0.003 0.1031,0.0529 0.1005,0.111 l -0.024,0.48629 c 0,0.0581 -0.053,0.10308 -0.111,0.10043 -0.058,-0.003 -0.1031,-0.0529 -0.1004,-0.111 z"
+       id="path30652" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.211432px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1358.0198,683.19907 v -26.36822 l -5.2858,-10.54781 v 26.37086 l 5.2858,10.54517"
+       id="path30654" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.211432px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1358.0198,683.19907 14.5043,-15.83097 -14.5043,-10.55575"
+       id="path30656" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.211432px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1358.0093,656.81235 17.1365,-6.58082 -22.4118,-3.94849"
+       id="path30658" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.211432px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1372.5241,667.34167 15.8151,-7.90227 -13.1775,-9.22373"
+       id="path30660" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.211432px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1358.0198,683.19907 15.8204,-5.28051 14.499,-18.48445"
+       id="path30662" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583"
+       d="m 1361.3578,685.19975 c 0,0.0264 -0.01,0.0608 -0.018,0.10043 -0.011,0.0396 -0.026,0.0687 -0.045,0.0925 -0.021,0.0238 -0.04,0.0344 -0.063,0.0344 -0.024,0 -0.05,-0.0132 -0.082,-0.0344 -0.032,-0.0238 -0.077,-0.0502 -0.1295,-0.0766 -0.053,-0.0291 -0.1242,-0.0529 -0.2088,-0.0767 -0.084,-0.0238 -0.1902,-0.0344 -0.3197,-0.0344 -0.1401,0 -0.2696,0.0185 -0.3859,0.0582 -0.1163,0.0396 -0.222,0.0951 -0.3145,0.16121 -0.095,0.0687 -0.1771,0.14801 -0.2458,0.23522 -0.071,0.0899 -0.1295,0.18236 -0.1771,0.28015 -0.045,0.0951 -0.082,0.19293 -0.1031,0.29336 -0.024,0.0978 -0.037,0.19029 -0.037,0.28015 0,0.10043 0.019,0.19029 0.05,0.26957 0.034,0.0793 0.084,0.14801 0.148,0.20086 0.063,0.0555 0.1427,0.0951 0.2352,0.12422 0.092,0.0264 0.1982,0.0423 0.3145,0.0423 0.1321,0 0.2458,-0.0106 0.3409,-0.0344 0.095,-0.0211 0.1771,-0.0476 0.2432,-0.074 0.069,-0.0264 0.1268,-0.0529 0.1718,-0.074 0.045,-0.0211 0.082,-0.0317 0.111,-0.0317 0.018,0 0.032,0.003 0.04,0.0132 0.01,0.0106 0.013,0.0264 0.013,0.0476 0,0.005 0,0.0132 0,0.0264 0,0.0106 -0.01,0.0238 -0.011,0.0396 0,0.0132 -0.01,0.0291 -0.011,0.0449 -0.01,0.0159 -0.011,0.0317 -0.016,0.0476 -0.01,0.0132 -0.013,0.0264 -0.021,0.0397 -0.01,0.0106 -0.021,0.0238 -0.04,0.037 -0.016,0.0106 -0.053,0.0291 -0.111,0.0555 -0.055,0.0238 -0.1242,0.0476 -0.2062,0.0687 -0.082,0.0238 -0.1744,0.0423 -0.2748,0.0581 -0.1031,0.0159 -0.2115,0.0238 -0.3251,0.0238 -0.1718,0 -0.3277,-0.0185 -0.4651,-0.0581 -0.1375,-0.0396 -0.2564,-0.0951 -0.3516,-0.17179 -0.098,-0.074 -0.1717,-0.16914 -0.2246,-0.28015 -0.055,-0.111 -0.082,-0.2405 -0.082,-0.38586 0,-0.12157 0.018,-0.24579 0.053,-0.37265 0.032,-0.12686 0.082,-0.25107 0.148,-0.37 0.066,-0.12158 0.148,-0.23522 0.2458,-0.34094 0.098,-0.10571 0.2141,-0.20086 0.3436,-0.28015 0.1321,-0.0793 0.2775,-0.14271 0.4414,-0.19028 0.1638,-0.0449 0.3435,-0.0687 0.5391,-0.0687 0.1216,0 0.2379,0.0106 0.3436,0.0317 0.1083,0.0211 0.1982,0.0476 0.2749,0.0793 0.074,0.0317 0.1295,0.0581 0.1638,0.0846 0.034,0.0238 0.05,0.0529 0.05,0.0846 z"
+       id="path30664" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583"
+       d="m 1377.054,680.18616 c 0,0.0766 -0.016,0.14801 -0.045,0.21937 -0.029,0.0687 -0.071,0.13214 -0.1269,0.19028 -0.053,0.0581 -0.1189,0.10836 -0.1982,0.15329 -0.077,0.0449 -0.1639,0.0819 -0.2643,0.11101 0.077,0.0106 0.1454,0.0264 0.2114,0.0555 0.066,0.0264 0.1216,0.0581 0.1666,0.0978 0.047,0.0397 0.084,0.0872 0.1083,0.14272 0.026,0.0529 0.04,0.11365 0.04,0.17972 0,0.0661 -0.013,0.13478 -0.037,0.2035 -0.026,0.0661 -0.063,0.13214 -0.1137,0.19293 -0.05,0.0608 -0.1136,0.11893 -0.1903,0.17179 -0.077,0.0529 -0.1638,0.0978 -0.2669,0.13743 -0.1031,0.0396 -0.2167,0.0687 -0.3409,0.0899 -0.1269,0.0211 -0.2723,0.0317 -0.4388,0.0317 h -0.9197 c -0.058,0 -0.1031,-0.008 -0.1321,-0.0291 -0.029,-0.0211 -0.034,-0.0555 -0.019,-0.10307 l 0.6158,-2.19097 c 0.013,-0.0502 0.04,-0.0846 0.085,-0.10307 0.045,-0.0211 0.092,-0.0317 0.1401,-0.0317 h 0.7453 c 0.1771,0 0.3251,0.0106 0.444,0.0317 0.1189,0.0212 0.2194,0.0529 0.2987,0.0925 0.079,0.0396 0.1374,0.0899 0.177,0.15065 0.04,0.0581 0.061,0.12686 0.061,0.20614 z m -0.4916,0.0582 c 0,-0.0423 -0.011,-0.0793 -0.029,-0.11364 -0.019,-0.0317 -0.05,-0.0608 -0.095,-0.0846 -0.045,-0.0211 -0.098,-0.0396 -0.1665,-0.0529 -0.066,-0.0132 -0.1533,-0.0211 -0.2643,-0.0211 h -0.4863 l -0.222,0.79551 h 0.5207 c 0.1427,0 0.259,-0.0159 0.3488,-0.0476 0.092,-0.0344 0.1665,-0.0766 0.2247,-0.12686 0.058,-0.0529 0.1004,-0.10836 0.1268,-0.17179 0.029,-0.0608 0.042,-0.12157 0.042,-0.17707 z m -0.103,1.1153 c 0,-0.10571 -0.053,-0.18764 -0.1586,-0.24579 -0.1057,-0.0555 -0.2696,-0.0846 -0.489,-0.0846 h -0.592 l -0.2405,0.86423 h 0.6449 c 0.148,0 0.2722,-0.0132 0.3727,-0.0423 0.1004,-0.0317 0.185,-0.0714 0.2537,-0.11893 0.066,-0.0476 0.1189,-0.10571 0.1533,-0.16914 0.037,-0.0661 0.055,-0.13215 0.055,-0.20351 z"
+       id="path30666" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       clip-path="url(#clipEmfPath2-9051)"
+       d="m 225.64959,56.866892 c 0.02,0.09989 0.02,0.189789 0.01,0.249723 -0.01,0.06992 -0.04,0.119867 -0.0999,0.149834 -0.0599,0.02997 -0.15983,0.04994 -0.28968,0.05993 -0.11987,0.01 -0.28968,0.01998 -0.50944,0.01998 -0.13984,0 -0.25971,-0.01 -0.3596,-0.01 -0.10988,-0.01 -0.1798,-0.01998 -0.23973,-0.03996 -0.0499,-0.01998 -0.0899,-0.03996 -0.11987,-0.06992 -0.02,-0.02997 -0.04,-0.05993 -0.0499,-0.09989 l -0.44951,-2.267484 h -5.15428 l -1.60821,2.237517 c -0.03,0.04995 -0.0699,0.0899 -0.10988,0.119867 -0.0399,0.02997 -0.0999,0.05993 -0.1798,0.07991 -0.0699,0.01998 -0.15982,0.02997 -0.27969,0.03996 -0.11987,0 -0.25971,0.01 -0.43951,0.01 -0.18979,0 -0.33962,-0.01 -0.45949,-0.01998 -0.10988,-0.01 -0.18979,-0.02997 -0.22975,-0.06992 -0.0499,-0.02997 -0.0599,-0.07991 -0.04,-0.149834 0.02,-0.05993 0.0599,-0.149834 0.12985,-0.249723 l 6.43287,-8.630422 c 0.0499,-0.04995 0.0999,-0.09989 0.14983,-0.129856 0.0499,-0.02997 0.11987,-0.05993 0.19978,-0.07991 0.0799,-0.01998 0.18979,-0.02997 0.30965,-0.03996 0.12986,-0.01 0.28968,-0.01 0.46948,-0.01 0.20977,0 0.37958,0 0.50944,0.01 0.12985,0.01 0.23973,0.01998 0.31964,0.03996 0.0799,0.01998 0.12986,0.04994 0.16981,0.07991 0.03,0.03996 0.0499,0.07991 0.0599,0.139845 z m -3.21643,-7.621542 h -0.01 l -3.34629,4.634857 h 4.27526 z"
+       id="path30668"
+       transform="matrix(0.26458333,0,0,0.26458333,1318.6512,635.33086)" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583"
+       d="m 1360.6892,654.58439 c 0,0.0819 -0.01,0.16914 -0.024,0.259 -0.016,0.0899 -0.04,0.17708 -0.074,0.26694 -0.032,0.0899 -0.077,0.17707 -0.1295,0.26429 -0.053,0.0846 -0.1189,0.1665 -0.1956,0.24579 -0.077,0.0766 -0.1639,0.148 -0.2669,0.21407 -0.1005,0.0661 -0.2141,0.12422 -0.3436,0.17179 -0.1295,0.0476 -0.2722,0.0846 -0.4308,0.111 -0.1586,0.0264 -0.3489,0.0397 -0.5709,0.0397 h -0.7426 c -0.021,0 -0.042,0 -0.063,-0.005 -0.018,-0.005 -0.037,-0.0106 -0.05,-0.0211 -0.013,-0.0106 -0.024,-0.0238 -0.029,-0.0423 -0.01,-0.0159 0,-0.037 0.01,-0.0634 l 0.5946,-2.19096 c 0.013,-0.0502 0.04,-0.0846 0.079,-0.10308 0.04,-0.0211 0.087,-0.0317 0.1374,-0.0317 h 0.7057 c 0.2563,0 0.4704,0.0211 0.6396,0.0608 0.1665,0.0396 0.3092,0.0978 0.4202,0.17444 0.1136,0.0766 0.1982,0.16914 0.2537,0.2775 0.056,0.111 0.085,0.23522 0.085,0.37265 z m -0.4705,0.0291 c 0,-0.0925 -0.018,-0.17972 -0.053,-0.259 -0.034,-0.0766 -0.09,-0.14536 -0.1665,-0.20086 -0.077,-0.0555 -0.1718,-0.10043 -0.2907,-0.13215 -0.119,-0.0344 -0.2749,-0.0502 -0.4678,-0.0502 h -0.4652 l -0.5206,1.91346 h 0.4598 c 0.2115,0 0.3859,-0.0185 0.5286,-0.0555 0.1401,-0.037 0.2643,-0.0899 0.3727,-0.15329 0.1083,-0.0634 0.2008,-0.13743 0.2775,-0.22201 0.077,-0.0846 0.1374,-0.17443 0.185,-0.26957 0.05,-0.0925 0.084,-0.18765 0.1057,-0.28544 0.024,-0.10043 0.034,-0.19293 0.034,-0.28543 z"
+       id="path30670" />
+    <path
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 1421.0176,646.17543 18.4581,5.26994 3.1609,10.53461 -18.4528,21.0692 h -26.3708 v -26.33386 z"
+       id="path30672" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.211432px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1397.8341,683.07032 h 26.3445 v -26.34443 h -26.3445 v 26.34443"
+       id="path30674" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.211432px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1424.1786,656.74175 18.4791,5.26994 -3.1662,-10.53989 -18.4844,-5.27523 3.1715,10.54518"
+       id="path30676" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.211432px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1424.1786,656.72589 h -26.3445 l 23.1835,-10.52932"
+       id="path30678" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.211432px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1424.1786,683.07032 18.4791,-21.05863"
+       id="path30680" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.0052858px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1397.7918,682.97518 0.444,-0.20086 c 0.053,-0.0212 0.1163,0 0.1375,0.0528 0.026,0.0529 0.01,0.11629 -0.053,0.14272 l -0.4387,0.20086 c -0.053,0.0211 -0.1163,0 -0.1427,-0.0529 -0.021,-0.0529 0,-0.11628 0.053,-0.14271 z m 1.2739,-0.57616 0.4387,-0.20086 c 0.053,-0.0264 0.1163,0 0.1428,0.0529 0.021,0.0529 0,0.11629 -0.053,0.13743 l -0.444,0.20086 c -0.053,0.0264 -0.1163,0.005 -0.1374,-0.0476 -0.026,-0.0581 -0.01,-0.11629 0.053,-0.14272 z m 1.2686,-0.57615 0.444,-0.20086 c 0.053,-0.0264 0.1163,0 0.1374,0.0529 0.026,0.0529 0,0.11629 -0.053,0.13743 l -0.444,0.20086 c -0.053,0.0264 -0.111,0 -0.1375,-0.0529 -0.026,-0.0529 0,-0.11629 0.053,-0.13743 z m 1.2686,-0.57615 0.444,-0.20615 c 0.053,-0.0211 0.1163,0 0.1374,0.0529 0.027,0.0529 0.01,0.11629 -0.047,0.14272 l -0.444,0.20086 c -0.053,0.0264 -0.1163,0 -0.1428,-0.0529 -0.021,-0.0529 0,-0.11629 0.053,-0.13743 z m 1.2739,-0.58144 0.4387,-0.20086 c 0.053,-0.0211 0.1163,0 0.1427,0.0529 0.021,0.0529 0,0.11629 -0.053,0.14272 l -0.4441,0.20085 c -0.053,0.0212 -0.1162,0 -0.1374,-0.0529 -0.026,-0.0529 0,-0.11629 0.053,-0.14272 z m 1.2686,-0.57615 0.444,-0.20086 c 0.053,-0.0264 0.1163,0 0.1374,0.0529 0.026,0.0529 0,0.11628 -0.053,0.13743 l -0.444,0.20614 c -0.053,0.0212 -0.111,0 -0.1374,-0.0529 -0.026,-0.0529 0,-0.11628 0.053,-0.14271 z m 1.2686,-0.57615 0.444,-0.20086 c 0.053,-0.0264 0.1163,0 0.1374,0.0529 0.026,0.0529 0.01,0.11629 -0.048,0.13743 l -0.444,0.20086 c -0.053,0.0264 -0.1163,0 -0.1427,-0.0528 -0.021,-0.0529 0,-0.11629 0.053,-0.13743 z m 1.2738,-0.57616 0.4388,-0.20086 c 0.053,-0.0264 0.1162,-0.005 0.1427,0.0529 0.021,0.0529 0,0.111 -0.053,0.13743 l -0.444,0.20086 c -0.053,0.0264 -0.1163,0 -0.1374,-0.0528 -0.026,-0.0529 0,-0.11629 0.053,-0.13744 z m 1.2686,-0.58144 0.444,-0.20085 c 0.053,-0.0211 0.1163,0 0.1375,0.0529 0.026,0.0529 0,0.11629 -0.053,0.14272 l -0.444,0.20086 c -0.053,0.0211 -0.111,0 -0.1374,-0.0529 -0.026,-0.0528 0,-0.11629 0.053,-0.14272 z m 1.2686,-0.57615 0.444,-0.20086 c 0.053,-0.0211 0.1163,0 0.1427,0.0529 0.021,0.0529 0,0.11629 -0.053,0.14272 l -0.444,0.20086 c -0.053,0.0211 -0.1163,0 -0.1427,-0.0529 -0.021,-0.0529 0,-0.11629 0.053,-0.14272 z m 1.2739,-0.57615 0.4387,-0.20086 c 0.053,-0.0264 0.1163,0 0.1427,0.0529 0.021,0.0529 0,0.11629 -0.053,0.13743 l -0.444,0.20086 c -0.053,0.0264 -0.1163,0 -0.1375,-0.0529 -0.026,-0.0529 0,-0.111 0.053,-0.13743 z m 1.2686,-0.57615 0.444,-0.20086 c 0.053,-0.0264 0.1163,0 0.1374,0.0529 0.026,0.0529 0,0.11629 -0.053,0.13743 l -0.4387,0.20086 c -0.058,0.0264 -0.1163,0 -0.1428,-0.0529 -0.026,-0.0529 0,-0.11629 0.053,-0.13743 z m 1.2686,-0.58144 0.444,-0.20086 c 0.053,-0.0211 0.1163,0 0.1427,0.0529 0.021,0.0529 0,0.11628 -0.053,0.14271 l -0.444,0.20086 c -0.053,0.0212 -0.1162,0 -0.1427,-0.0529 -0.021,-0.0529 0,-0.11629 0.053,-0.14272 z m 1.2739,-0.57615 0.4387,-0.20086 c 0.053,-0.0212 0.1163,0 0.1427,0.0529 0.021,0.0528 0,0.11628 -0.053,0.14271 l -0.444,0.20086 c -0.053,0.0211 -0.1163,0 -0.1374,-0.0529 -0.026,-0.0529 0,-0.11629 0.053,-0.14272 z m 1.2686,-0.57616 0.444,-0.20085 c 0.053,-0.0264 0.1163,0 0.1374,0.0528 0.026,0.0529 0,0.11629 -0.053,0.13743 l -0.4387,0.20087 c -0.058,0.0264 -0.1163,0.005 -0.1427,-0.0476 -0.026,-0.0581 0,-0.11629 0.053,-0.14272 z m 1.2685,-0.57615 0.4441,-0.20086 c 0.053,-0.0264 0.1162,0 0.1427,0.0529 0.021,0.0529 0,0.11629 -0.053,0.13743 l -0.444,0.20086 c -0.053,0.0264 -0.1163,0 -0.1427,-0.0529 -0.021,-0.0529 0,-0.11628 0.053,-0.13743 z m 1.2739,-0.57615 0.4387,-0.20086 c 0.053,-0.0264 0.1163,-0.005 0.1428,0.0476 0.021,0.0529 0,0.11629 -0.053,0.14272 l -0.444,0.20086 c -0.053,0.0264 -0.1163,0 -0.1374,-0.0529 -0.026,-0.0529 0,-0.11629 0.053,-0.13743 z m 1.2686,-0.58144 0.444,-0.20086 c 0.053,-0.0211 0.1163,0 0.1375,0.0529 0.026,0.0529 0,0.11629 -0.053,0.14272 l -0.4387,0.20086 c -0.053,0.0211 -0.1163,0 -0.1427,-0.0529 -0.021,-0.0529 0,-0.11629 0.053,-0.14272 z m 1.2686,-0.57615 0.333,-0.148 -0.037,0.0264 0.085,-0.0951 c 0.037,-0.0423 0.1004,-0.0476 0.148,-0.0106 0.042,0.0423 0.048,0.10572 0.011,0.15329 l -0.085,0.0899 c -0.01,0.0106 -0.021,0.0211 -0.032,0.0264 l -0.333,0.15329 c -0.053,0.0211 -0.1163,0 -0.1427,-0.0529 -0.021,-0.0529 0,-0.11629 0.053,-0.14272 z m 0.9779,-0.89859 0.3171,-0.36472 c 0.042,-0.0476 0.1057,-0.0529 0.1533,-0.0106 0.042,0.037 0.048,0.10572 0.01,0.14801 l -0.3171,0.36472 c -0.037,0.0423 -0.1058,0.0476 -0.148,0.0106 -0.048,-0.037 -0.048,-0.10572 -0.011,-0.14801 z m 0.9197,-1.05187 0.3172,-0.36472 c 0.042,-0.0423 0.1057,-0.0476 0.148,-0.0106 0.048,0.037 0.053,0.10571 0.011,0.148 l -0.3171,0.36472 c -0.042,0.0476 -0.1057,0.0529 -0.148,0.0106 -0.048,-0.037 -0.053,-0.10571 -0.011,-0.148 z m 0.9145,-1.05187 0.3224,-0.36472 c 0.037,-0.0423 0.1057,-0.0476 0.148,-0.0106 0.048,0.0423 0.048,0.10572 0.011,0.15329 l -0.3172,0.36472 c -0.042,0.0423 -0.1057,0.0476 -0.1533,0.0106 -0.042,-0.0423 -0.048,-0.10571 -0.011,-0.15328 z m 0.9197,-1.04659 0.3224,-0.36472 c 0.037,-0.0476 0.1057,-0.0529 0.148,-0.0106 0.042,0.037 0.048,0.10571 0.011,0.148 l -0.3224,0.36472 c -0.037,0.0423 -0.1005,0.0476 -0.148,0.0106 -0.042,-0.037 -0.048,-0.10572 -0.011,-0.148 z m 0.9197,-1.05188 0.3224,-0.36472 c 0.037,-0.0423 0.1058,-0.0476 0.1481,-0.0106 0.042,0.037 0.048,0.10572 0.011,0.148 l -0.3224,0.36472 c -0.037,0.0476 -0.1057,0.0529 -0.148,0.0106 -0.042,-0.037 -0.048,-0.10572 -0.011,-0.14801 z m 0.9197,-1.05187 0.3225,-0.36472 c 0.037,-0.0423 0.1057,-0.0476 0.148,-0.0106 0.042,0.0423 0.048,0.10571 0.011,0.15329 l -0.3225,0.36472 c -0.037,0.0423 -0.1057,0.0476 -0.148,0.0106 -0.042,-0.0423 -0.048,-0.10572 -0.011,-0.15329 z m 0.9198,-1.04659 0.3224,-0.36472 c 0.037,-0.0476 0.1004,-0.0529 0.148,-0.0106 0.042,0.037 0.048,0.10571 0.011,0.148 l -0.3225,0.36472 c -0.037,0.0423 -0.1057,0.0476 -0.148,0.0106 -0.047,-0.037 -0.047,-0.10571 -0.01,-0.148 z m 0.9197,-1.05187 0.3172,-0.36472 c 0.042,-0.0423 0.1057,-0.0476 0.1532,-0.0106 0.042,0.037 0.048,0.10572 0.01,0.14801 l -0.3171,0.36472 c -0.037,0.0476 -0.1057,0.0529 -0.148,0.0106 -0.048,-0.037 -0.048,-0.10572 -0.011,-0.148 z m 0.9197,-1.05188 0.3172,-0.36472 c 0.042,-0.0423 0.1057,-0.0476 0.148,-0.0106 0.048,0.0423 0.053,0.10572 0.011,0.15329 l -0.3172,0.36472 c -0.042,0.0423 -0.1057,0.0476 -0.148,0.0106 -0.048,-0.0423 -0.053,-0.10572 -0.011,-0.15329 z m 0.9145,-1.04659 0.3224,-0.36472 c 0.037,-0.0476 0.1057,-0.0529 0.148,-0.0106 0.048,0.037 0.048,0.10572 0.011,0.148 l -0.3172,0.36473 c -0.042,0.0423 -0.1057,0.0476 -0.1533,0.0106 -0.042,-0.037 -0.047,-0.10572 -0.01,-0.14801 z m 0.9197,-1.05187 0.3224,-0.36472 c 0.037,-0.0423 0.1058,-0.0476 0.148,-0.0106 0.042,0.037 0.048,0.10571 0.011,0.148 l -0.3224,0.36472 c -0.037,0.0476 -0.1005,0.0529 -0.148,0.0106 -0.042,-0.037 -0.048,-0.10571 -0.011,-0.148 z m 0.9197,-1.05187 0.3225,-0.36472 c 0.037,-0.0423 0.1057,-0.0476 0.148,-0.0106 0.042,0.0423 0.047,0.10572 0.011,0.15329 l -0.3224,0.36472 c -0.037,0.0423 -0.1057,0.0476 -0.148,0.0106 -0.042,-0.0423 -0.048,-0.10571 -0.011,-0.15328 z m 0.9198,-1.04659 0.3224,-0.36472 c 0.037,-0.0476 0.1057,-0.0529 0.148,-0.0106 0.042,0.037 0.048,0.10572 0.011,0.14801 l -0.3225,0.36472 c -0.037,0.0423 -0.1057,0.0476 -0.148,0.0106 -0.042,-0.037 -0.048,-0.10572 -0.011,-0.148 z m 0.9197,-1.05188 0.3224,-0.36472 c 0.037,-0.0423 0.1005,-0.0476 0.148,-0.0106 0.042,0.037 0.048,0.10572 0.011,0.148 l -0.3224,0.36472 c -0.037,0.0476 -0.1057,0.0529 -0.148,0.0106 -0.048,-0.037 -0.048,-0.10571 -0.011,-0.148 z m 0.9197,-1.05187 0.3172,-0.36472 c 0.042,-0.0423 0.1057,-0.0476 0.1533,-0.0106 0.042,0.0423 0.048,0.10571 0.01,0.15328 l -0.3171,0.36472 c -0.037,0.0423 -0.1057,0.0476 -0.148,0.0106 -0.048,-0.0423 -0.048,-0.10572 -0.011,-0.15329 z m 0.9198,-1.04659 0.3171,-0.36472 c 0.042,-0.0476 0.1057,-0.0529 0.148,-0.0106 0.048,0.037 0.053,0.10571 0.011,0.148 l -0.3172,0.36472 c -0.042,0.0423 -0.1057,0.0476 -0.148,0.0106 -0.048,-0.037 -0.053,-0.10571 -0.011,-0.148 z m 0.9197,-1.05188 0.3171,-0.36472 c 0.037,-0.0423 0.1057,-0.0476 0.148,-0.0106 0.048,0.037 0.048,0.10572 0.011,0.14801 l -0.3171,0.36472 c -0.042,0.0476 -0.1058,0.0529 -0.1533,0.0106 -0.042,-0.037 -0.048,-0.10572 -0.01,-0.14801 z m 0.9144,-1.05187 0.3225,-0.36472 c 0.037,-0.0423 0.1057,-0.0476 0.148,-0.0106 0.042,0.0423 0.048,0.10571 0.011,0.15329 l -0.3224,0.36472 c -0.037,0.0423 -0.1004,0.0476 -0.148,0.0106 -0.042,-0.0423 -0.048,-0.10572 -0.011,-0.15329 z m 0.9198,-1.04659 0.3224,-0.36472 c 0.037,-0.0476 0.1057,-0.0529 0.148,-0.0106 0.042,0.037 0.048,0.10572 0.011,0.148 l -0.3225,0.36472 c -0.037,0.0423 -0.1057,0.0476 -0.148,0.0106 -0.042,-0.037 -0.047,-0.10571 -0.01,-0.148 z m 0.9197,-1.05187 0.3118,-0.35944 c 0.042,-0.0423 0.1058,-0.0476 0.1533,-0.0106 0.042,0.0423 0.048,0.10572 0.011,0.15329 l -0.3171,0.35415 v 0 c -0.037,0.0476 -0.1058,0.0529 -0.148,0.0106 -0.042,-0.037 -0.048,-0.10572 -0.011,-0.148 z"
+       id="path30682" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.0052858px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1424.0781,683.10203 -0.1374,-0.46515 c -0.016,-0.0528 0.016,-0.11628 0.069,-0.13214 0.058,-0.0159 0.1163,0.0159 0.1322,0.074 l 0.1427,0.46515 c 0.016,0.0529 -0.016,0.111 -0.074,0.13214 -0.053,0.0159 -0.1163,-0.0159 -0.1322,-0.074 z m -0.4017,-1.3373 -0.1374,-0.46515 c -0.016,-0.0529 0.011,-0.11101 0.069,-0.13215 0.058,-0.0159 0.1163,0.0159 0.1321,0.074 l 0.1427,0.46515 c 0.016,0.0529 -0.016,0.11629 -0.074,0.13215 -0.053,0.0159 -0.1162,-0.0159 -0.1321,-0.074 z m -0.4017,-1.33202 -0.1374,-0.46516 c -0.021,-0.0581 0.011,-0.11628 0.069,-0.13214 0.058,-0.0211 0.1163,0.0106 0.1321,0.0687 l 0.1374,0.46515 c 0.021,0.0581 -0.011,0.11628 -0.069,0.13214 -0.058,0.0159 -0.1163,-0.0159 -0.1321,-0.0687 z m -0.4017,-1.33731 -0.1428,-0.46515 c -0.016,-0.0581 0.016,-0.11629 0.074,-0.13215 0.053,-0.0159 0.1163,0.0159 0.1322,0.0687 l 0.1374,0.46515 c 0.016,0.0581 -0.016,0.11629 -0.069,0.13214 -0.058,0.0159 -0.1163,-0.0159 -0.1321,-0.0687 z m -0.4018,-1.33731 -0.1427,-0.46515 c -0.016,-0.0581 0.016,-0.11629 0.074,-0.13215 0.053,-0.0159 0.1163,0.0159 0.1322,0.0687 l 0.1374,0.47044 c 0.016,0.0529 -0.016,0.111 -0.069,0.12686 -0.058,0.0211 -0.1163,-0.0106 -0.1322,-0.0687 z m -0.4017,-1.33731 -0.1427,-0.46515 c -0.016,-0.0529 0.016,-0.11628 0.074,-0.13214 0.053,-0.0159 0.111,0.0159 0.1321,0.074 l 0.1375,0.46515 c 0.016,0.0529 -0.016,0.111 -0.069,0.13214 -0.058,0.0159 -0.1163,-0.0159 -0.1322,-0.074 z m -0.4017,-1.3373 -0.1427,-0.46515 c -0.016,-0.0529 0.016,-0.11101 0.074,-0.13215 0.053,-0.0159 0.111,0.0159 0.1268,0.074 l 0.1428,0.46515 c 0.016,0.0581 -0.016,0.11629 -0.069,0.13215 -0.058,0.0159 -0.1162,-0.0159 -0.1321,-0.074 z m -0.4017,-1.33203 -0.1427,-0.46515 c -0.016,-0.0581 0.016,-0.11629 0.069,-0.13214 0.058,-0.0211 0.1163,0.0106 0.1321,0.0687 v 0 l 0.1427,0.46515 c 0.016,0.0581 -0.016,0.11629 -0.069,0.13215 -0.058,0.0159 -0.1163,-0.0159 -0.1321,-0.0687 z m -0.3647,-1.3743 v -0.4863 c 0,-0.0581 0.047,-0.10571 0.1057,-0.10571 0.063,0 0.1057,0.0476 0.1057,0.10571 v 0.4863 c 0,0.0581 -0.042,0.10571 -0.1057,0.10571 -0.058,0 -0.1057,-0.0476 -0.1057,-0.10571 z m 0,-1.39546 v -0.48629 c 0,-0.0581 0.047,-0.10572 0.1057,-0.10572 0.063,0 0.1057,0.0476 0.1057,0.10572 v 0.48629 c 0,0.0581 -0.042,0.10572 -0.1057,0.10572 -0.058,0 -0.1057,-0.0476 -0.1057,-0.10572 z m 0,-1.39545 v -0.48629 c 0,-0.0581 0.047,-0.10572 0.1057,-0.10572 0.063,0 0.1057,0.0476 0.1057,0.10572 v 0.48629 c 0,0.0581 -0.042,0.10572 -0.1057,0.10572 -0.058,0 -0.1057,-0.0476 -0.1057,-0.10572 z m 0,-1.39545 v -0.48629 c 0,-0.0581 0.047,-0.10572 0.1057,-0.10572 0.063,0 0.1057,0.0476 0.1057,0.10572 v 0.48629 c 0,0.0581 -0.042,0.10572 -0.1057,0.10572 -0.058,0 -0.1057,-0.0476 -0.1057,-0.10572 z m 0,-1.39545 v -0.48629 c 0,-0.0582 0.047,-0.10572 0.1057,-0.10572 0.063,0 0.1057,0.0476 0.1057,0.10572 v 0.48629 c 0,0.0581 -0.042,0.10572 -0.1057,0.10572 -0.058,0 -0.1057,-0.0476 -0.1057,-0.10572 z m 0,-1.39545 v -0.4863 c 0,-0.0581 0.047,-0.10571 0.1057,-0.10571 0.063,0 0.1057,0.0476 0.1057,0.10571 v 0.4863 c 0,0.0581 -0.042,0.10571 -0.1057,0.10571 -0.058,0 -0.1057,-0.0476 -0.1057,-0.10571 z m 0,-1.39545 v -0.4863 c 0,-0.0581 0.047,-0.10571 0.1057,-0.10571 0.063,0 0.1057,0.0476 0.1057,0.10571 v 0.4863 c 0,0.0581 -0.042,0.10571 -0.1057,0.10571 -0.058,0 -0.1057,-0.0476 -0.1057,-0.10571 z m 0,-1.39545 v -0.4863 c 0,-0.0581 0.047,-0.10571 0.1057,-0.10571 0.063,0 0.1057,0.0476 0.1057,0.10571 v 0.4863 c 0,0.0581 -0.042,0.10571 -0.1057,0.10571 -0.058,0 -0.1057,-0.0476 -0.1057,-0.10571 z m 0,-1.39546 v -0.48629 c 0,-0.0581 0.047,-0.10572 0.1057,-0.10572 0.063,0 0.1057,0.0476 0.1057,0.10572 v 0.48629 c 0,0.0582 -0.042,0.10572 -0.1057,0.10572 -0.058,0 -0.1057,-0.0476 -0.1057,-0.10572 z m 0,-1.39545 v -0.48629 c 0,-0.0581 0.047,-0.10572 0.1057,-0.10572 0.063,0 0.1057,0.0476 0.1057,0.10572 v 0.48629 c 0,0.0582 -0.042,0.10572 -0.1057,0.10572 -0.058,0 -0.1057,-0.0476 -0.1057,-0.10572 z m 0,-1.39545 v -0.48629 c 0,-0.0582 0.047,-0.10572 0.1057,-0.10572 0.063,0 0.1057,0.0476 0.1057,0.10572 v 0.48629 c 0,0.0581 -0.042,0.10572 -0.1057,0.10572 -0.058,0 -0.1057,-0.0476 -0.1057,-0.10572 z m 0,-1.39545 v -0.48629 c 0,-0.0582 0.047,-0.10572 0.1057,-0.10572 0.063,0 0.1057,0.0476 0.1057,0.10572 v 0.48629 c 0,0.0581 -0.042,0.10572 -0.1057,0.10572 -0.058,0 -0.1057,-0.0476 -0.1057,-0.10572 z m 0,-1.39545 v -0.4863 c 0,-0.0581 0.047,-0.10571 0.1057,-0.10571 0.063,0 0.1057,0.0476 0.1057,0.10571 v 0.4863 c 0,0.0581 -0.042,0.10571 -0.1057,0.10571 -0.058,0 -0.1057,-0.0476 -0.1057,-0.10571 z m 0,-1.39545 v -0.4863 c 0,-0.0581 0.047,-0.10571 0.1057,-0.10571 0.063,0 0.1057,0.0476 0.1057,0.10571 v 0.4863 c 0,0.0581 -0.042,0.10571 -0.1057,0.10571 -0.058,0 -0.1057,-0.0476 -0.1057,-0.10571 z m 0,-1.39545 v -0.4863 c 0,-0.0581 0.047,-0.10571 0.1057,-0.10571 0.063,0 0.1057,0.0476 0.1057,0.10571 v 0.4863 c 0,0.0581 -0.042,0.10571 -0.1057,0.10571 -0.058,0 -0.1057,-0.0476 -0.1057,-0.10571 z m 0,-1.39546 v -0.48629 c 0,-0.0581 0.047,-0.10572 0.1057,-0.10572 0.063,0 0.1057,0.0476 0.1057,0.10572 v 0.48629 c 0,0.0582 -0.042,0.10572 -0.1057,0.10572 -0.058,0 -0.1057,-0.0476 -0.1057,-0.10572 z m 0,-1.39545 v -0.48629 c 0,-0.0581 0.047,-0.10572 0.1057,-0.10572 0.063,0 0.1057,0.0476 0.1057,0.10572 v 0.48629 c 0,0.0581 -0.042,0.10572 -0.1057,0.10572 -0.058,0 -0.1057,-0.0476 -0.1057,-0.10572 z m 0,-1.39545 v -0.48629 c 0,-0.0581 0.047,-0.10572 0.1057,-0.10572 0.063,0 0.1057,0.0476 0.1057,0.10572 v 0.48629 c 0,0.0581 -0.042,0.10572 -0.1057,0.10572 -0.058,0 -0.1057,-0.0476 -0.1057,-0.10572 z m 0,-1.39545 v -0.48629 c 0,-0.0581 0.047,-0.10572 0.1057,-0.10572 0.063,0 0.1057,0.0476 0.1057,0.10572 v 0.48629 c 0,0.0581 -0.042,0.10572 -0.1057,0.10572 -0.058,0 -0.1057,-0.0476 -0.1057,-0.10572 z"
+       id="path30684" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583"
+       d="m 1427.646,685.24278 c 0,0.0264 -0.01,0.0581 -0.021,0.10043 -0.011,0.037 -0.026,0.0687 -0.042,0.0899 -0.021,0.0212 -0.042,0.037 -0.063,0.037 -0.026,0 -0.053,-0.0159 -0.085,-0.037 -0.032,-0.0211 -0.074,-0.0476 -0.1269,-0.074 -0.058,-0.0317 -0.1268,-0.0529 -0.2114,-0.0793 -0.085,-0.0211 -0.1903,-0.0317 -0.3171,-0.0317 -0.1427,0 -0.2696,0.0159 -0.3859,0.0581 -0.1163,0.037 -0.222,0.0951 -0.3171,0.15858 -0.095,0.0687 -0.1745,0.148 -0.2432,0.23786 -0.074,0.0899 -0.1321,0.17972 -0.1797,0.27486 -0.042,0.10043 -0.079,0.19557 -0.1004,0.296 -0.026,0.10044 -0.037,0.19029 -0.037,0.28015 0,0.10043 0.016,0.19029 0.048,0.26958 0.037,0.0793 0.085,0.148 0.148,0.20086 0.063,0.0581 0.1428,0.0951 0.2379,0.12686 0.09,0.0264 0.1956,0.0423 0.3119,0.0423 0.1321,0 0.2484,-0.0159 0.3435,-0.037 0.095,-0.0211 0.1745,-0.0476 0.2432,-0.074 0.069,-0.0264 0.1268,-0.0529 0.1691,-0.074 0.048,-0.0211 0.085,-0.0317 0.111,-0.0317 0.021,0 0.032,0.005 0.042,0.0159 0.01,0.0106 0.011,0.0264 0.011,0.0423 0,0.0106 0,0.0159 0,0.0317 -0.01,0.0106 -0.01,0.0211 -0.011,0.037 -0.01,0.0159 -0.01,0.0317 -0.011,0.0476 -0.01,0.0159 -0.01,0.0317 -0.016,0.0423 -0.011,0.0159 -0.016,0.0317 -0.021,0.0423 -0.01,0.0106 -0.021,0.0264 -0.042,0.037 -0.016,0.0106 -0.053,0.0317 -0.111,0.0581 -0.053,0.0211 -0.1216,0.0476 -0.2062,0.0687 -0.079,0.0211 -0.1744,0.0423 -0.2749,0.0581 -0.1004,0.0159 -0.2114,0.0211 -0.3224,0.0211 -0.1744,0 -0.3277,-0.0159 -0.4651,-0.0581 -0.1375,-0.037 -0.259,-0.0951 -0.3542,-0.16914 -0.095,-0.074 -0.1691,-0.16915 -0.2273,-0.28015 -0.053,-0.111 -0.079,-0.24315 -0.079,-0.38586 0,-0.12158 0.021,-0.24843 0.053,-0.37529 0.032,-0.12686 0.085,-0.24844 0.148,-0.37001 0.069,-0.12157 0.148,-0.23257 0.2484,-0.33829 0.095,-0.10572 0.2115,-0.20086 0.3436,-0.28015 0.1269,-0.0793 0.2749,-0.14272 0.4387,-0.19029 0.1639,-0.0476 0.3436,-0.0687 0.5392,-0.0687 0.1216,0 0.2378,0.0106 0.3436,0.0317 0.1057,0.0211 0.2008,0.0476 0.2748,0.0793 0.074,0.0317 0.1322,0.0581 0.1639,0.0846 0.037,0.0211 0.053,0.0529 0.053,0.0846 z"
+       id="path30686" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583"
+       d="m 1419.9129,671.51556 c 0,0.0793 -0.016,0.148 -0.042,0.222 -0.032,0.0687 -0.074,0.13215 -0.1268,0.19029 -0.053,0.0582 -0.1216,0.10572 -0.2009,0.15329 -0.074,0.0423 -0.1639,0.0793 -0.2643,0.111 0.079,0.005 0.148,0.0264 0.2114,0.0529 0.069,0.0264 0.1216,0.0581 0.1692,0.10043 0.048,0.037 0.085,0.0846 0.1057,0.14272 0.026,0.0529 0.042,0.111 0.042,0.17971 0,0.0634 -0.016,0.13215 -0.037,0.20087 -0.026,0.0687 -0.063,0.13214 -0.1163,0.19557 -0.048,0.0581 -0.111,0.11629 -0.1903,0.16915 -0.074,0.0529 -0.1638,0.10042 -0.2643,0.13743 -0.1057,0.0423 -0.2167,0.0687 -0.3435,0.0898 -0.1269,0.0212 -0.2696,0.0317 -0.4388,0.0317 h -0.9197 c -0.058,0 -0.1004,-0.0106 -0.1321,-0.0264 -0.026,-0.0211 -0.032,-0.0582 -0.016,-0.10572 l 0.6132,-2.18832 c 0.016,-0.0529 0.042,-0.0846 0.085,-0.10571 0.048,-0.0212 0.095,-0.0317 0.1427,-0.0317 h 0.7453 c 0.1745,0 0.3225,0.0106 0.444,0.0317 0.1163,0.0211 0.2168,0.0529 0.2961,0.0951 0.079,0.037 0.1374,0.0899 0.1797,0.148 0.037,0.0581 0.058,0.12686 0.058,0.20615 z m -0.4916,0.0581 c 0,-0.0423 -0.011,-0.0793 -0.026,-0.111 -0.021,-0.0317 -0.053,-0.0634 -0.095,-0.0846 -0.048,-0.0211 -0.1005,-0.0423 -0.1692,-0.0529 -0.063,-0.0159 -0.1533,-0.0211 -0.2643,-0.0211 h -0.4863 l -0.222,0.79287 h 0.5233 c 0.1427,0 0.259,-0.0159 0.3489,-0.0476 0.09,-0.0317 0.1638,-0.074 0.222,-0.12686 0.058,-0.0529 0.1004,-0.10571 0.1268,-0.16914 0.032,-0.0634 0.042,-0.12157 0.042,-0.17972 z m -0.1004,1.11531 c 0,-0.10572 -0.053,-0.185 -0.1586,-0.24315 -0.1057,-0.0581 -0.2695,-0.0846 -0.4916,-0.0846 h -0.592 l -0.2378,0.86158 h 0.6448 c 0.148,0 0.2696,-0.0106 0.3701,-0.0423 0.1004,-0.0317 0.185,-0.0687 0.2537,-0.11629 0.069,-0.0529 0.1215,-0.10572 0.1533,-0.16915 0.037,-0.0687 0.058,-0.13214 0.058,-0.20614 z"
+       id="path30688" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583"
+       d="m 1427.7782,655.30401 c 0,0.0793 -0.01,0.16914 -0.021,0.259 -0.016,0.0846 -0.042,0.17443 -0.074,0.26429 -0.032,0.0899 -0.079,0.17972 -0.1321,0.26429 -0.053,0.0846 -0.1163,0.16915 -0.1956,0.24844 -0.074,0.074 -0.1638,0.148 -0.2643,0.21143 -0.1004,0.0687 -0.2167,0.12686 -0.3435,0.17443 -0.1322,0.0476 -0.2749,0.0846 -0.4335,0.111 -0.1586,0.0264 -0.3488,0.037 -0.5708,0.037 h -0.7401 c -0.021,0 -0.042,0 -0.063,-0.005 -0.021,-0.005 -0.037,-0.0106 -0.053,-0.0212 -0.011,-0.0106 -0.021,-0.0211 -0.026,-0.0423 -0.01,-0.0159 -0.01,-0.037 0.01,-0.0634 l 0.592,-2.18833 c 0.016,-0.0529 0.042,-0.0846 0.079,-0.10571 0.042,-0.0211 0.09,-0.0317 0.1374,-0.0317 h 0.7083 c 0.2538,0 0.4705,0.0211 0.6396,0.0634 0.1639,0.037 0.3066,0.0951 0.4176,0.17444 0.1163,0.074 0.2009,0.16914 0.2537,0.27486 0.058,0.111 0.085,0.23786 0.085,0.37529 z m -0.4705,0.0264 c 0,-0.0899 -0.016,-0.17972 -0.053,-0.25901 -0.032,-0.074 -0.09,-0.14271 -0.1639,-0.20086 -0.079,-0.0581 -0.1744,-0.10043 -0.2907,-0.13214 -0.1216,-0.0317 -0.2749,-0.0476 -0.4704,-0.0476 h -0.4652 l -0.518,1.91346 h 0.4599 c 0.2114,0 0.3858,-0.0212 0.5286,-0.0581 0.1374,-0.037 0.2642,-0.0899 0.37,-0.15329 0.111,-0.0634 0.2008,-0.13743 0.2801,-0.222 0.074,-0.0846 0.1374,-0.17443 0.185,-0.26958 0.048,-0.0898 0.085,-0.185 0.1057,-0.28543 0.021,-0.10043 0.032,-0.19029 0.032,-0.28543 z"
+       id="path30690" />
+  </g>
+</svg>
